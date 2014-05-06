@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Howler test</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/howler/1.1.17/howler.min.js"></script>
+    <script type="text/javascript">
+        var urlSound = "https://ia600401.us.archive.org/27/items/beep.mp3/beep.mp3";
+
+        var sound = new Howl({
+            urls: [ urlSound ],
+            format: 'mp3',
+            buffer: false,
+            autoplay: true,
+            onloaderror: function() {
+                alert('Load error!');
+            },
+            onend: function() {
+                console.log('Finished!');
+                alert('Done!');
+            }
+        });    </script>
+</head>
+<body>
+    <h2>Howler test</h2>
+    <p>Test page for assessing <a href="https://github.com/goldfire/howler.js/issues/145">#145</a></p>
+</body>
+</html>
