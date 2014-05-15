@@ -2,8 +2,7 @@
  * Created by Nathan on 4/22/14.
  */
 
-var debug = true,
-    origin = window.location.origin + "/";
+var debug = true;
 
 if(debug === true) {
     setInterval(function() {
@@ -21,7 +20,7 @@ var BigBen = (function() {
         this.nextHour = this.hour - (Date.now() % this.hour) + Date.now();
         this.quarterHour = 15 * 60 * 1000;
         this.nextQuarterHour = this.quarterHour - (Date.now() % this.quarterHour) + Date.now();
-        this.nextPreHour = this.nextHour - 22 * 60 * 1000; // 22-second lead-in to hour
+        this.nextPreHour = this.nextHour - 22 * 1000; // 22-second lead-in to hour
 
         this.init = function init() {
             this._preloadAssets();
@@ -29,11 +28,11 @@ var BigBen = (function() {
         };
 
         this._srcAudio = {
-            q1:     origin + "sounds/5227__hyderpotter__big-ben/93143__hyderpotter__quarter.wav",
-            q2:     origin + "sounds/5227__hyderpotter__big-ben/93142__hyderpotter__half.wav",
-            q3:     origin + "sounds/5227__hyderpotter__big-ben/93141__hyderpotter__3quarter.wav",
-            q4:     origin + "sounds/5227__hyderpotter__big-ben/80289__hyderpotter__hourlychimebeg.mp3",
-            strikes: origin + "sounds/5227__hyderpotter__big-ben/80290__hyderpotter__bigbenstrikes.mp3"
+            q1:     "sounds/5227__hyderpotter__big-ben/93143__hyderpotter__quarter.mp3",
+            q2:     "sounds/5227__hyderpotter__big-ben/93142__hyderpotter__half.mp3",
+            q3:     "sounds/5227__hyderpotter__big-ben/93141__hyderpotter__3quarter.mp3",
+            q4:     "sounds/5227__hyderpotter__big-ben/80289__hyderpotter__hourlychimebeg.mp3",
+            strikes: "sounds/5227__hyderpotter__big-ben/80290__hyderpotter__bigbenstrikes.mp3"
         };
 
         this._preloadAssets = function _preloadAssets() {
@@ -45,16 +44,16 @@ var BigBen = (function() {
             new TimedAction(c.nextPreHour, c.handlePreHour, c.hour);
         };
 
-        this.handleQuarterHour = function handleQuarterHour() {
-            var d = new Date(this.timestamp),
-                h = 12 - (d.getHours() % 12),
+        this.handleQuarterHour = function handleQuarterHour(e) {
+            var d = new Date(e.timestamp),
+                h = d.getHours() % 12,
                 m = d.getMinutes();
 
-            console.log("Hour number: " + h + " Quarter-hour minutes: " + m);
+            console.log("Hour number " + h + ". Quarter-hour: " + m);
 
             switch(m) {
                 case 0:
-                    Mixer.play(c._srcAudio.strikes, c.hourSegments[h].s);
+                    Mixer.play(c._srcAudio.strikes, c.hourSegments[h].s / 1000);
                     break;
                 case 15:
                     Mixer.play(c._srcAudio.q1, 0);
@@ -68,12 +67,12 @@ var BigBen = (function() {
             }
         };
 
-        this.handlePreHour = function handlePreHour() {
+        this.handlePreHour = function handlePreHour(e) {
             Mixer.play(c._srcAudio.q4, 0);
         };
 
         this.hourSegments = {
-            12: { s: 0, e: 4400 },
+            0: { s: 0, e: 4400 },
             11: { s: 4445, e: 8684 },
             10: { s: 8704, e: 12845 },
             9: { s: 12863, e: 16862 },
@@ -114,7 +113,9 @@ function TimedAction(timestamp, handler, interval) {
     };
 
     this._actionHandler = function _actionHandler() {
-        c.handler.call(c);
+        var evt = { timestamp: c.timestamp };
+
+        c.handler(evt);
 
         if(c.interval) {
             c.lastExec = c.timestamp;
@@ -228,7 +229,7 @@ var Mixer = (function() {
             this.load(src, function(url) {
                 source.buffer = me.sounds[url];
                 source.connect(me.ctx.destination);
-                source.start(begin);
+                source.start(0, begin);
 
                 if(cb)
                     source.onended = cb;
