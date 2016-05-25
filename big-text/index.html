@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <title>Type some text</title>
+    <link href="main.css" rel="stylesheet" />
+    <script src="fluid-text.js"></script>
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', function() {
+        var txt = document.getElementById('textinput');
+
+        txt.addEventListener('input', resizeText);
+
+        window.addEventListener('resize', function() {
+          resizeText({target: txt});
+        });
+        resizeText({target: txt});
+
+        txt.focus();
+      });
+    </script>
+  </head>
+  <body>
+    <div id="textinput" contenteditable="true" spellcheck="false"></div>
+  </body>
+</html>
