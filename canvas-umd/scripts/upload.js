@@ -1,5 +1,5 @@
 require.config({
-    baseUrl: '/',
+    baseUrl: '/canvas-umd',
     paths: {
         createjs: 'scripts/vendor/createjs-2015.11.26.combined'
     }
