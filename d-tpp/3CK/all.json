@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "05154R8.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "05154R26.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 26",
+			"pdf_name": "05154V26.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05154VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IL",
+		"state_fullname": "Illinois",
+		"city_name": "CHICAGO/LAKE IN THE HILLS",
+		"airport_name": "LAKE IN THE HILLS",
+		"military": "N",
+		"apt_ident": "3CK",
+		"icao_ident": "",
+		"alnum": "5154"
+	}
+}

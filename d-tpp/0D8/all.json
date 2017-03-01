@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "09032R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "09032R31.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SD",
+		"state_fullname": "South Dakota",
+		"city_name": "GETTYSBURG",
+		"airport_name": "GETTYSBURG MUNI",
+		"military": "N",
+		"apt_ident": "0D8",
+		"icao_ident": "",
+		"alnum": "9032"
+	}
+}

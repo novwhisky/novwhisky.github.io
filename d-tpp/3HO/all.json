@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GOSHEN SIX",
+			"pdf_name": "00081GOSHEN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LUCIT ONE (RNAV)",
+			"pdf_name": "00748LUCIT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LUCIT ONE (RNAV), CONT.1",
+			"pdf_name": "00748LUCIT_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IN",
+		"state_fullname": "Indiana",
+		"city_name": "HOBART",
+		"airport_name": "HOBART SKY RANCH",
+		"military": "N",
+		"apt_ident": "3HO",
+		"icao_ident": "",
+		"alnum": "10365"
+	}
+}

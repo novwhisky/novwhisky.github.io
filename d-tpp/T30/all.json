@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC3TO.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR GPS-A",
+			"pdf_name": "06177VDGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "PEARSALL",
+		"airport_name": "MC KINLEY FIELD",
+		"military": "N",
+		"apt_ident": "T30",
+		"icao_ident": "",
+		"alnum": "6177"
+	}
+}

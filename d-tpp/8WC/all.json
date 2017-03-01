@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "10241R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20",
+			"pdf_name": "10241R20.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MO",
+		"state_fullname": "Missouri",
+		"city_name": "POTOSI",
+		"airport_name": "WASHINGTON COUNTY",
+		"military": "N",
+		"apt_ident": "8WC",
+		"icao_ident": "",
+		"alnum": "10241"
+	}
+}

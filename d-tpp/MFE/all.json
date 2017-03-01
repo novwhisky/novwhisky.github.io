@@ -1,0 +1,68 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC3ALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 14",
+			"pdf_name": "00985IL14.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 32",
+			"pdf_name": "00985IL32.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "00985R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00985R32.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 14",
+			"pdf_name": "00985V14.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 32",
+			"pdf_name": "00985V32.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00985AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "MC ALLEN",
+		"airport_name": "MC ALLEN MILLER INTL",
+		"military": "N",
+		"apt_ident": "MFE",
+		"icao_ident": "KMFE",
+		"alnum": "985"
+	}
+}

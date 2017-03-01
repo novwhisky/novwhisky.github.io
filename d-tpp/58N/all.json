@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "10579RA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "PALMYRA",
+		"airport_name": "REIGLE FIELD",
+		"military": "N",
+		"apt_ident": "58N",
+		"icao_ident": "",
+		"alnum": "10579"
+	}
+}

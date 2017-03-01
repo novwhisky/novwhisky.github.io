@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "06756R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "06756R31.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06756VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IA",
+		"state_fullname": "Iowa",
+		"city_name": "EAGLE GROVE",
+		"airport_name": "EAGLE GROVE MUNI",
+		"military": "N",
+		"apt_ident": "EAG",
+		"icao_ident": "KEAG",
+		"alnum": "6756"
+	}
+}

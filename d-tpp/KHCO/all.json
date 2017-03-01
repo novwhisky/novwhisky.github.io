@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "06275R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "06275R31.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 31",
+			"pdf_name": "06275VD31.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MN",
+		"state_fullname": "Minnesota",
+		"city_name": "HALLOCK",
+		"airport_name": "HALLOCK MUNI",
+		"military": "N",
+		"apt_ident": "HCO",
+		"icao_ident": "KHCO",
+		"alnum": "6275"
+	}
+}

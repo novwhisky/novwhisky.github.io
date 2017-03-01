@@ -1,0 +1,62 @@
+{
+	"records": [
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC2ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "NC2HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 14",
+			"pdf_name": "00676IL14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "00676R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00676R32.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 32",
+			"pdf_name": "00676VD32.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 14",
+			"pdf_name": "00676V14.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00676AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "DODGE CITY",
+		"airport_name": "DODGE CITY RGNL",
+		"military": "N",
+		"apt_ident": "DDC",
+		"icao_ident": "KDDC",
+		"alnum": "676"
+	}
+}

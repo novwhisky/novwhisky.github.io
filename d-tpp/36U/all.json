@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "06969RA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "COOLI FOUR (RNAV)",
+			"pdf_name": "06969COOLI.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "UT",
+		"state_fullname": "Utah",
+		"city_name": "HEBER",
+		"airport_name": "HEBER CITY MUNI-RUSS MCDONALD FIELD",
+		"military": "N",
+		"apt_ident": "36U",
+		"icao_ident": "",
+		"alnum": "6969"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC1ALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 28",
+			"pdf_name": "00721IL28.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "00721R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28",
+			"pdf_name": "00721R28.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 28",
+			"pdf_name": "00721V28.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MI",
+		"state_fullname": "Michigan",
+		"city_name": "BENTON HARBOR",
+		"airport_name": "SOUTHWEST MICHIGAN RGNL",
+		"military": "N",
+		"apt_ident": "BEH",
+		"icao_ident": "KBEH",
+		"alnum": "721"
+	}
+}

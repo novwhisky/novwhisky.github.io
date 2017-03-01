@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR GPS-A",
+			"pdf_name": "05846VDGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "WILLARD",
+		"airport_name": "WILLARD",
+		"military": "N",
+		"apt_ident": "8G1",
+		"icao_ident": "",
+		"alnum": "5846"
+	}
+}

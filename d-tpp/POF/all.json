@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05622R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "05622R36.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MO",
+		"state_fullname": "Missouri",
+		"city_name": "POPLAR BLUFF",
+		"airport_name": "POPLAR BLUFF MUNI",
+		"military": "N",
+		"apt_ident": "POF",
+		"icao_ident": "KPOF",
+		"alnum": "5622"
+	}
+}

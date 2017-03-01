@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC2ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "00536R35.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "00536VDA.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 35",
+			"pdf_name": "00536N35.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "COFFEYVILLE",
+		"airport_name": "COFFEYVILLE MUNI",
+		"military": "N",
+		"apt_ident": "CFV",
+		"icao_ident": "KCFV",
+		"alnum": "536"
+	}
+}

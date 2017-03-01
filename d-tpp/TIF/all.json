@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC2ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 11",
+			"pdf_name": "06142R11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 29",
+			"pdf_name": "06142R29.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 29",
+			"pdf_name": "06142VD29.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 11",
+			"pdf_name": "06142V11.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NE",
+		"state_fullname": "Nebraska",
+		"city_name": "THEDFORD",
+		"airport_name": "THOMAS COUNTY",
+		"military": "N",
+		"apt_ident": "TIF",
+		"icao_ident": "KTIF",
+		"alnum": "6142"
+	}
+}

@@ -1,0 +1,122 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BRAYMER FIVE",
+			"pdf_name": "00780BRAYMER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BRAYMER FIVE, CONT.1",
+			"pdf_name": "00780BRAYMER_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JHAWK SIX",
+			"pdf_name": "00780JHAWK.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JHAWK SIX, CONT.1",
+			"pdf_name": "00780JHAWK_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ROBINSON THREE",
+			"pdf_name": "00780ROBINSON.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ROBINSON THREE, CONT.1",
+			"pdf_name": "00780ROBINSON_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TYGER SIX",
+			"pdf_name": "00780TYGER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TYGER SIX, CONT.1",
+			"pdf_name": "00780TYGER_C.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "00152R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "00152R34.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "00152VDA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CHIEF FIVE",
+			"pdf_name": "00152CHIEF.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LAKES EIGHT",
+			"pdf_name": "00152LAKES.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "RACER FIVE",
+			"pdf_name": "00152RACER.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ROYAL SEVEN",
+			"pdf_name": "00152ROYAL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TIFTO FOUR",
+			"pdf_name": "00152TIFTO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WILDCAT THREE",
+			"pdf_name": "00152WILDCAT.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "FORT LEAVENWORTH",
+		"airport_name": "SHERMAN AAF",
+		"military": "N",
+		"apt_ident": "FLV",
+		"icao_ident": "KFLV",
+		"alnum": "152"
+	}
+}

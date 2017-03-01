@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "06581R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "06581R19.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06581VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "JACKSON",
+		"airport_name": "JAMES A. RHODES",
+		"military": "N",
+		"apt_ident": "I43",
+		"icao_ident": "",
+		"alnum": "6581"
+	}
+}

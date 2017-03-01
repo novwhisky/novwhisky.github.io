@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "06351R18.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06351VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IL",
+		"state_fullname": "Illinois",
+		"city_name": "PEORIA",
+		"airport_name": "MT. HAWLEY AUXILIARY",
+		"military": "N",
+		"apt_ident": "3MY",
+		"icao_ident": "",
+		"alnum": "6351"
+	}
+}

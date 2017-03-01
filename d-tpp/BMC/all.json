@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "05477R35.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "UT",
+		"state_fullname": "Utah",
+		"city_name": "BRIGHAM CITY",
+		"airport_name": "BRIGHAM CITY",
+		"military": "N",
+		"apt_ident": "BMC",
+		"icao_ident": "KBMC",
+		"alnum": "5477"
+	}
+}

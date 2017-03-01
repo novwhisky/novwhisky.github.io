@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 09",
+			"pdf_name": "06616R9.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NC",
+		"state_fullname": "North Carolina",
+		"city_name": "MOCKSVILLE",
+		"airport_name": "TWIN LAKES",
+		"military": "N",
+		"apt_ident": "8A7",
+		"icao_ident": "",
+		"alnum": "6616"
+	}
+}

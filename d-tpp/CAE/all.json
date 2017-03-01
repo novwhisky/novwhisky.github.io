@@ -1,0 +1,92 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE2ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SE2HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 05",
+			"pdf_name": "00089IL5.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 11",
+			"pdf_name": "00089IL11.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 29",
+			"pdf_name": "00089IL29.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 11 (CAT II - III)",
+			"pdf_name": "00089I11C2_3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "00089R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 11",
+			"pdf_name": "00089R11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "00089R23.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 29",
+			"pdf_name": "00089R29.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "00089VA.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00089AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SC",
+		"state_fullname": "South Carolina",
+		"city_name": "COLUMBIA",
+		"airport_name": "COLUMBIA METROPOLITAN",
+		"military": "N",
+		"apt_ident": "CAE",
+		"icao_ident": "KCAE",
+		"alnum": "89"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "05044R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "05044R23.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 23",
+			"pdf_name": "05044V23.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "GALION",
+		"airport_name": "GALION MUNI",
+		"military": "N",
+		"apt_ident": "GQQ",
+		"icao_ident": "KGQQ",
+		"alnum": "5044"
+	}
+}

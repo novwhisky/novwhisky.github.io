@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "05970R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "05970R31.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 13",
+			"pdf_name": "05970VD13.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "GA",
+		"state_fullname": "Georgia",
+		"city_name": "WASHINGTON",
+		"airport_name": "WASHINGTON-WILKES COUNTY",
+		"military": "N",
+		"apt_ident": "IIY",
+		"icao_ident": "KIIY",
+		"alnum": "5970"
+	}
+}

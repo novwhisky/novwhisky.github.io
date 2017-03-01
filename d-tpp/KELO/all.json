@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "05974R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "05974R30.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 12",
+			"pdf_name": "05974VD12.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 30",
+			"pdf_name": "05974VD30.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MN",
+		"state_fullname": "Minnesota",
+		"city_name": "ELY",
+		"airport_name": "ELY MUNI",
+		"military": "N",
+		"apt_ident": "ELO",
+		"icao_ident": "KELO",
+		"alnum": "5974"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE2ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "00476R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "00476R19.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 19",
+			"pdf_name": "00476L19.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "00476VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NJ",
+		"state_fullname": "New Jersey",
+		"city_name": "WILDWOOD",
+		"airport_name": "CAPE MAY COUNTY",
+		"military": "N",
+		"apt_ident": "WWD",
+		"icao_ident": "KWWD",
+		"alnum": "476"
+	}
+}

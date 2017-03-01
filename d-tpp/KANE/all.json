@@ -1,0 +1,152 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC1ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AGUDE FOUR",
+			"pdf_name": "00263AGUDE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ENCEE ONE (RNAV)",
+			"pdf_name": "00263ENCEE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GOPHER NINE",
+			"pdf_name": "00264GOPHER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TWOLF TWO",
+			"pdf_name": "00264TWOLF.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TWOLF TWO, CONT.1",
+			"pdf_name": "00264TWOLF_C.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 27",
+			"pdf_name": "05202ILD27.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 09",
+			"pdf_name": "05202R9.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05202R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 27",
+			"pdf_name": "05202R27.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 09",
+			"pdf_name": "05202V9.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05202AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "COULT SIX",
+			"pdf_name": "05202COULT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DARWIN SIX",
+			"pdf_name": "05202DARWIN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KBREW EIGHT",
+			"pdf_name": "05202KBREW.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ORSKY NINE",
+			"pdf_name": "05202ORSKY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ORSKY NINE, CONT.1",
+			"pdf_name": "05202ORSKY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ROCHESTER EIGHT",
+			"pdf_name": "05202ROCHESTER.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SCHEP EIGHT",
+			"pdf_name": "05202SCHEP.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SCHEP EIGHT, CONT.1",
+			"pdf_name": "05202SCHEP_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WLSTN SIX",
+			"pdf_name": "05202WLSTN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ZMBRO SIX",
+			"pdf_name": "05202ZMBRO.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MN",
+		"state_fullname": "Minnesota",
+		"city_name": "MINNEAPOLIS",
+		"airport_name": "ANOKA COUNTY-BLAINE AIRPORT (JANES FIELD)",
+		"military": "N",
+		"apt_ident": "ANE",
+		"icao_ident": "KANE",
+		"alnum": "5202"
+	}
+}

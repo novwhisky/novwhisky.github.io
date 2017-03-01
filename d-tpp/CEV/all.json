@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "51000",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 18",
+			"pdf_name": "05371IL18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05371R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "05371R36.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05371VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IN",
+		"state_fullname": "Indiana",
+		"city_name": "CONNERSVILLE",
+		"airport_name": "METTEL FIELD",
+		"military": "N",
+		"apt_ident": "CEV",
+		"icao_ident": "KCEV",
+		"alnum": "5371"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "05774R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "05774R32.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 32",
+			"pdf_name": "05774V32.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WY",
+		"state_fullname": "Wyoming",
+		"city_name": "NEWCASTLE",
+		"airport_name": "MONDELL FIELD",
+		"military": "N",
+		"apt_ident": "ECS",
+		"icao_ident": "KECS",
+		"alnum": "5774"
+	}
+}

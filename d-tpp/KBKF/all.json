@@ -1,0 +1,218 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DANDD EIGHT",
+			"pdf_name": "09077DANDD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DANDD EIGHT, CONT.1",
+			"pdf_name": "09077DANDD_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DUNNN TWO (RNAV)",
+			"pdf_name": "05715DUNNN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DUNNN TWO (RNAV), CONT.1",
+			"pdf_name": "05715DUNNN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LANDR EIGHT",
+			"pdf_name": "09077LANDR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LANDR EIGHT, CONT.1",
+			"pdf_name": "09077LANDR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LARKS EIGHT",
+			"pdf_name": "09077LARKS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LARKS EIGHT, CONT.1",
+			"pdf_name": "09077LARKS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "POWDR EIGHT",
+			"pdf_name": "09077POWDR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "POWDR EIGHT, CONT.1",
+			"pdf_name": "09077POWDR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "QUAIL EIGHT",
+			"pdf_name": "09077QUAIL.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RAMMS SIX",
+			"pdf_name": "09077RAMMS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RAMMS SIX, CONT.1",
+			"pdf_name": "09077RAMMS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SAYGE NINE",
+			"pdf_name": "09077SAYGE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SAYGE NINE, CONT.1",
+			"pdf_name": "09077SAYGE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TOMSN SIX",
+			"pdf_name": "09077TOMSN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TOMSN SIX, CONT.1",
+			"pdf_name": "09077TOMSN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ZOMBZ ONE (RNAV)",
+			"pdf_name": "05715ZOMBZ.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC/DME RWY 32",
+			"pdf_name": "00538HILD32.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 32",
+			"pdf_name": "00538ILD32.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 14",
+			"pdf_name": "00538HT14.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 32",
+			"pdf_name": "00538HT32.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 32",
+			"pdf_name": "00538T32.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00538AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DENVER NINE",
+			"pdf_name": "00538DENVER.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DENVER NINE, CONT.1",
+			"pdf_name": "00538DENVER_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PIKES NINE",
+			"pdf_name": "00538PIKES.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PLAINS EIGHT",
+			"pdf_name": "00538PLAINS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PLAINS EIGHT, CONT.1",
+			"pdf_name": "00538PLAINS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ROCKIES THREE",
+			"pdf_name": "00538ROCKIES.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ROCKIES THREE, CONT.1",
+			"pdf_name": "00538ROCKIES_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "YELLOWSTONE ONE",
+			"pdf_name": "00538YELLOWSTONE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "YELLOWSTONE ONE, CONT.1",
+			"pdf_name": "00538YELLOWSTONE_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "AURORA",
+		"airport_name": "BUCKLEY AFB",
+		"military": "M",
+		"apt_ident": "BKF",
+		"icao_ident": "KBKF",
+		"alnum": "538"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "06665R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "06665R32.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06665VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WI",
+		"state_fullname": "Wisconsin",
+		"city_name": "NEW HOLSTEIN",
+		"airport_name": "NEW HOLSTEIN MUNI",
+		"military": "N",
+		"apt_ident": "8D1",
+		"icao_ident": "",
+		"alnum": "6665"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "09113R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "09113R35.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-B",
+			"pdf_name": "09113VDB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OK",
+		"state_fullname": "Oklahoma",
+		"city_name": "CLAREMORE",
+		"airport_name": "CLAREMORE RGNL",
+		"military": "N",
+		"apt_ident": "GCM",
+		"icao_ident": "KGCM",
+		"alnum": "9113"
+	}
+}

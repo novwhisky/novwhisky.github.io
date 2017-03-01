@@ -1,0 +1,86 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC3ALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 17R",
+			"pdf_name": "00226ILD17R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "00226R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17L",
+			"pdf_name": "00226R17L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17R",
+			"pdf_name": "00226R17R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00226R32.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35L",
+			"pdf_name": "00226R35L.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME BC RWY 35L",
+			"pdf_name": "00226LDBC35L.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR TACAN RWY 14",
+			"pdf_name": "00226VDT14.PDF"
+		},
+		{
+			"chartseq": "55850",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR TACAN RWY 32",
+			"pdf_name": "00226VT32.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00226AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "LAREDO",
+		"airport_name": "LAREDO INTL",
+		"military": "N",
+		"apt_ident": "LRD",
+		"icao_ident": "KLRD",
+		"alnum": "226"
+	}
+}

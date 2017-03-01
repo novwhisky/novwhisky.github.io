@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 09",
+			"pdf_name": "06218R9.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 27",
+			"pdf_name": "06218R27.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IL",
+		"state_fullname": "Illinois",
+		"city_name": "MONEE",
+		"airport_name": "BULT FIELD",
+		"military": "N",
+		"apt_ident": "C56",
+		"icao_ident": "",
+		"alnum": "6218"
+	}
+}

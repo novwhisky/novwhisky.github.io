@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "10164R2.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "ILIAMNA ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "10164ILIAMNA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "NONDALTON",
+		"airport_name": "NONDALTON",
+		"military": "N",
+		"apt_ident": "5NN",
+		"icao_ident": "PANO",
+		"alnum": "10164"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "05610R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "05610R19.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05610VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MO",
+		"state_fullname": "Missouri",
+		"city_name": "NEOSHO",
+		"airport_name": "NEOSHO HUGH ROBINSON",
+		"military": "N",
+		"apt_ident": "EOS",
+		"icao_ident": "KEOS",
+		"alnum": "5610"
+	}
+}

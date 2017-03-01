@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 31",
+			"pdf_name": "06500RY31.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 31",
+			"pdf_name": "06500RZ31.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-C",
+			"pdf_name": "06500RC.PDF"
+		},
+		{
+			"chartseq": "54500",
+			"chart_code": "IAP",
+			"chart_name": "LDA/DME-B",
+			"pdf_name": "06500LDADB.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06500VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WV",
+		"state_fullname": "West Virginia",
+		"city_name": "PETERSBURG",
+		"airport_name": "GRANT COUNTY",
+		"military": "N",
+		"apt_ident": "W99",
+		"icao_ident": "",
+		"alnum": "6500"
+	}
+}

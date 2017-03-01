@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "09287R26.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "ZUNGU ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "09287ZUNGU.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KUMBA ONE (RNAV)",
+			"pdf_name": "09287KUMBA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "BORREGO SPRINGS",
+		"airport_name": "BORREGO VALLEY",
+		"military": "N",
+		"apt_ident": "L08",
+		"icao_ident": "",
+		"alnum": "9287"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC4TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC4ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "00879R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "00879R19.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MS",
+		"state_fullname": "Mississippi",
+		"city_name": "VICKSBURG",
+		"airport_name": "VICKSBURG MUNI",
+		"military": "N",
+		"apt_ident": "VKS",
+		"icao_ident": "KVKS",
+		"alnum": "879"
+	}
+}

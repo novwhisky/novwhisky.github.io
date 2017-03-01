@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "06745R5.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SC",
+		"state_fullname": "South Carolina",
+		"city_name": "SAINT GEORGE",
+		"airport_name": "SAINT GEORGE",
+		"military": "N",
+		"apt_ident": "6J2",
+		"icao_ident": "",
+		"alnum": "6745"
+	}
+}

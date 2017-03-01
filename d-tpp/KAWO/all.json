@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "00795R34.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 34",
+			"pdf_name": "00795L34.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 34",
+			"pdf_name": "00795N34.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ARLINGTON TWO",
+			"pdf_name": "00795ARLINGTON.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WA",
+		"state_fullname": "Washington",
+		"city_name": "ARLINGTON",
+		"airport_name": "ARLINGTON MUNI",
+		"military": "N",
+		"apt_ident": "AWO",
+		"icao_ident": "KAWO",
+		"alnum": "795"
+	}
+}

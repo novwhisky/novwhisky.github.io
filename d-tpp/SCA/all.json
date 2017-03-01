@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "05047R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28",
+			"pdf_name": "05047R28.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05047VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "SIDNEY",
+		"airport_name": "SIDNEY MUNI",
+		"military": "N",
+		"apt_ident": "SCA",
+		"icao_ident": "KSCA",
+		"alnum": "5047"
+	}
+}

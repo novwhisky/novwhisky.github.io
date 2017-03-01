@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC2ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "05684R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "05684R35.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 17",
+			"pdf_name": "05684VD17.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "PARSONS",
+		"airport_name": "TRI-CITY",
+		"military": "N",
+		"apt_ident": "PPF",
+		"icao_ident": "KPPF",
+		"alnum": "5684"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR GPS-A",
+			"pdf_name": "06664VDGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "ERIE",
+		"airport_name": "ERIE MUNI",
+		"military": "N",
+		"apt_ident": "EIK",
+		"icao_ident": "KEIK",
+		"alnum": "6664"
+	}
+}

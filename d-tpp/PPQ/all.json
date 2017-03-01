@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "06310R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "06310R31.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 13",
+			"pdf_name": "06310VD13.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IL",
+		"state_fullname": "Illinois",
+		"city_name": "PITTSFIELD",
+		"airport_name": "PITTSFIELD-PENSTONE MUNI",
+		"military": "N",
+		"apt_ident": "PPQ",
+		"icao_ident": "KPPQ",
+		"alnum": "6310"
+	}
+}

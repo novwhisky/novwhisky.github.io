@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "09026R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "09026R30.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ND",
+		"state_fullname": "North Dakota",
+		"city_name": "WATFORD CITY",
+		"airport_name": "WATFORD CITY MUNI",
+		"military": "N",
+		"apt_ident": "S25",
+		"icao_ident": "",
+		"alnum": "9026"
+	}
+}

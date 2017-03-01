@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "09039R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "09039R35.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "WRAY",
+		"airport_name": "WRAY MUNI",
+		"military": "N",
+		"apt_ident": "2V5",
+		"icao_ident": "",
+		"alnum": "9039"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "10382R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "10382R19.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NE",
+		"state_fullname": "Nebraska",
+		"city_name": "NELIGH",
+		"airport_name": "ANTELOPE COUNTY",
+		"military": "N",
+		"apt_ident": "4V9",
+		"icao_ident": "",
+		"alnum": "10382"
+	}
+}

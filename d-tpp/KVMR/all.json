@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "06946R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "06946R30.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SD",
+		"state_fullname": "South Dakota",
+		"city_name": "VERMILLION",
+		"airport_name": "HAROLD DAVIDSON FIELD",
+		"military": "N",
+		"apt_ident": "VMR",
+		"icao_ident": "KVMR",
+		"alnum": "6946"
+	}
+}

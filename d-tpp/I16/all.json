@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 08",
+			"pdf_name": "06411G8.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 26",
+			"pdf_name": "06411G26.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WV",
+		"state_fullname": "West Virginia",
+		"city_name": "PINEVILLE",
+		"airport_name": "KEE FIELD",
+		"military": "N",
+		"apt_ident": "I16",
+		"icao_ident": "",
+		"alnum": "6411"
+	}
+}

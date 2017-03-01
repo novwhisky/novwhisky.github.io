@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "05975R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "05975R34.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "05975VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "KENEDY",
+		"airport_name": "KARNES COUNTY",
+		"military": "N",
+		"apt_ident": "2R9",
+		"icao_ident": "",
+		"alnum": "5975"
+	}
+}

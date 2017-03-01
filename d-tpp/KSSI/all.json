@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "00168R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "00168R22.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 04",
+			"pdf_name": "00168V4.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "GA",
+		"state_fullname": "Georgia",
+		"city_name": "BRUNSWICK",
+		"airport_name": "MCKINNON ST SIMONS ISLAND",
+		"military": "N",
+		"apt_ident": "SSI",
+		"icao_ident": "KSSI",
+		"alnum": "168"
+	}
+}

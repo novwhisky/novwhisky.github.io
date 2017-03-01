@@ -1,0 +1,62 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AWSON THREE",
+			"pdf_name": "00469AWSON.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AWSON THREE, CONT.1",
+			"pdf_name": "00469AWSON_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BUKHD ONE (RNAV)",
+			"pdf_name": "00469BUKHD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEHAN ONE (RNAV)",
+			"pdf_name": "00469DEHAN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEHAN ONE (RNAV), CONT.1",
+			"pdf_name": "00469DEHAN_C.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "06140R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "06140R32.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "GA",
+		"state_fullname": "Georgia",
+		"city_name": "GRIFFIN",
+		"airport_name": "GRIFFIN-SPALDING COUNTY",
+		"military": "N",
+		"apt_ident": "6A2",
+		"icao_ident": "",
+		"alnum": "6140"
+	}
+}

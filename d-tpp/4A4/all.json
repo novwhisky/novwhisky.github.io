@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE4ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "05501R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28",
+			"pdf_name": "05501R28.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05501VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "GA",
+		"state_fullname": "Georgia",
+		"city_name": "CEDARTOWN",
+		"airport_name": "POLK COUNTY AIRPORT- CORNELIUS MOOR FIELD",
+		"military": "N",
+		"apt_ident": "4A4",
+		"icao_ident": "",
+		"alnum": "5501"
+	}
+}

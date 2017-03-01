@@ -1,0 +1,104 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "NW1RAD.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 14",
+			"pdf_name": "00451ILD14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "00451R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 25",
+			"pdf_name": "00451R25.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 07",
+			"pdf_name": "00451HT7.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 14",
+			"pdf_name": "00451HT14.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 32",
+			"pdf_name": "00451HT32.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 25",
+			"pdf_name": "00451HTZ25.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 07",
+			"pdf_name": "00451T7.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 14",
+			"pdf_name": "00451T14.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 25",
+			"pdf_name": "00451T25.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 32",
+			"pdf_name": "00451T32.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00451AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PENN COVE THREE",
+			"pdf_name": "00451PENNCOVE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WA",
+		"state_fullname": "Washington",
+		"city_name": "OAK HARBOR",
+		"airport_name": "WHIDBEY ISLAND NAS (AULT FIELD)",
+		"military": "M",
+		"apt_ident": "NUW",
+		"icao_ident": "KNUW",
+		"alnum": "451"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "05646R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "05646R35.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "05646VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TN",
+		"state_fullname": "Tennessee",
+		"city_name": "GALLATIN",
+		"airport_name": "SUMNER COUNTY RGNL",
+		"military": "N",
+		"apt_ident": "M33",
+		"icao_ident": "",
+		"alnum": "5646"
+	}
+}

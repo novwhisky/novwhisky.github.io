@@ -1,0 +1,146 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "NE2RAD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "HARRISBURG FIVE",
+			"pdf_name": "00150HARRISBURG.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SEA ISLE FOUR",
+			"pdf_name": "05623SEAISLE.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 06",
+			"pdf_name": "00150IL6.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 24",
+			"pdf_name": "00150IL24.PDF"
+		},
+		{
+			"chartseq": "51500",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 06 (CAT II)",
+			"pdf_name": "00150I6C2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "00150R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "00150R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "00150R24.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "00150R36.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR TACAN RWY 06",
+			"pdf_name": "00150VDT6.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR TACAN RWY 18",
+			"pdf_name": "00150VDT18.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR TACAN RWY 24",
+			"pdf_name": "00150VDT24.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR TACAN RWY 36",
+			"pdf_name": "00150VDT36.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00150AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MODENA FOUR",
+			"pdf_name": "00150MODENA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MODENA FOUR, CONT.1",
+			"pdf_name": "00150MODENA_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "POINT PLEASANT FIVE",
+			"pdf_name": "00150POINTPLEASANT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "POINT PLEASANT FIVE, CONT.1",
+			"pdf_name": "00150POINTPLEASANT_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "POTTSTOWN THREE",
+			"pdf_name": "00150POTTSTOWN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "POTTSTOWN THREE, CONT.1",
+			"pdf_name": "00150POTTSTOWN_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NJ",
+		"state_fullname": "New Jersey",
+		"city_name": "WRIGHTSTOWN",
+		"airport_name": "MCGUIRE FLD (JOINT BASE MCGUIRE DIX LAKEHURST)",
+		"military": "M",
+		"apt_ident": "WRI",
+		"icao_ident": "KWRI",
+		"alnum": "150"
+	}
+}

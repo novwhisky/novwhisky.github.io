@@ -1,0 +1,134 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SW1HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC Y RWY 22",
+			"pdf_name": "00007HILY22.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC Z RWY 22",
+			"pdf_name": "00007HILZ22.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC/DME Z RWY 16",
+			"pdf_name": "00007HILDZ16.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 16",
+			"pdf_name": "00007ILD16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "HI-RNAV (GPS) RWY 22",
+			"pdf_name": "00007HR22.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "00007R34.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN X RWY 22",
+			"pdf_name": "00007HTX22.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Y RWY 16",
+			"pdf_name": "00007HTY16.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Y RWY 22",
+			"pdf_name": "00007HTY22.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 16",
+			"pdf_name": "00007HTZ16.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 22",
+			"pdf_name": "00007HTZ22.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 34",
+			"pdf_name": "00007HTZ34.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN X RWY 34",
+			"pdf_name": "00007TX34.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00007AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CLOUD ALPHA FOUR",
+			"pdf_name": "00007CLOUDALPHA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CLOUD BRAVO FOUR (RNAV)",
+			"pdf_name": "00007CLOUDBRAVO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HIGGY TWO",
+			"pdf_name": "00007HIGGY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "IZZYY ONE (RNAV)",
+			"pdf_name": "00007IZZYY.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "ALAMOGORDO",
+		"airport_name": "HOLLOMAN AFB",
+		"military": "M",
+		"apt_ident": "HMN",
+		"icao_ident": "KHMN",
+		"alnum": "7"
+	}
+}

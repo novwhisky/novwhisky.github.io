@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "05686R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "05686R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "05686R22.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "05686R31.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 13",
+			"pdf_name": "05686V13.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IL",
+		"state_fullname": "Illinois",
+		"city_name": "JACKSONVILLE",
+		"airport_name": "JACKSONVILLE MUNI",
+		"military": "N",
+		"apt_ident": "IJX",
+		"icao_ident": "KIJX",
+		"alnum": "5686"
+	}
+}

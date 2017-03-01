@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 24",
+			"pdf_name": "06922ILD24.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "06922R24.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "CAPITAN ONE (OBSTACLE)",
+			"pdf_name": "06922CAPITAN.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "RUIDOSO",
+		"airport_name": "SIERRA BLANCA REGIONAL",
+		"military": "N",
+		"apt_ident": "SRR",
+		"icao_ident": "KSRR",
+		"alnum": "6922"
+	}
+}

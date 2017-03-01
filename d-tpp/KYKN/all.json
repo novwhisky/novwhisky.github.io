@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC1ALT.PDF"
+		},
+		{
+			"chartseq": "51000",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 31",
+			"pdf_name": "05235IL31.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "05235R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "05235R31.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 13",
+			"pdf_name": "05235V13.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SD",
+		"state_fullname": "South Dakota",
+		"city_name": "YANKTON",
+		"airport_name": "CHAN GURNEY MUNI",
+		"military": "N",
+		"apt_ident": "YKN",
+		"icao_ident": "KYKN",
+		"alnum": "5235"
+	}
+}

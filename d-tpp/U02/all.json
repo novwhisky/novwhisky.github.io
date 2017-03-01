@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "09351RA.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-B",
+			"pdf_name": "09351RB.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-C",
+			"pdf_name": "09351VDC.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "IDAHO FALLS THREE (RNAV)",
+			"pdf_name": "09351IDAHOFALLS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "POCATELLO THREE (RNAV)",
+			"pdf_name": "09351POCATELLO.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ID",
+		"state_fullname": "Idaho",
+		"city_name": "BLACKFOOT",
+		"airport_name": "MCCARLEY FIELD",
+		"military": "N",
+		"apt_ident": "U02",
+		"icao_ident": "",
+		"alnum": "9351"
+	}
+}

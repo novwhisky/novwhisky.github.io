@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "10160R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "10160R24.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "KOKHANOK",
+		"airport_name": "KOKHANOK",
+		"military": "N",
+		"apt_ident": "9K2",
+		"icao_ident": "PFKK",
+		"alnum": "10160"
+	}
+}

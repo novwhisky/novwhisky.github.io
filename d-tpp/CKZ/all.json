@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "06753R8.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "06753R26.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "PERKASIE",
+		"airport_name": "PENNRIDGE",
+		"military": "N",
+		"apt_ident": "CKZ",
+		"icao_ident": "KCKZ",
+		"alnum": "6753"
+	}
+}

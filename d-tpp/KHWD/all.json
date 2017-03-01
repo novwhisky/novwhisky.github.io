@@ -1,0 +1,74 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW2TO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "SW2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW2ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SW2HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MADWIN SIX",
+			"pdf_name": "00294MADWIN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "PANOCHE FOUR",
+			"pdf_name": "00294PANOCHE.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28L",
+			"pdf_name": "05015R28L.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME RWY 28L",
+			"pdf_name": "05015LD28L.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "05015VDA.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05015AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "HAYWARD",
+		"airport_name": "HAYWARD EXECUTIVE",
+		"military": "N",
+		"apt_ident": "HWD",
+		"icao_ident": "KHWD",
+		"alnum": "5015"
+	}
+}

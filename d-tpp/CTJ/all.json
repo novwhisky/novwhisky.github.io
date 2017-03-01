@@ -1,0 +1,68 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE4ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AWSON THREE",
+			"pdf_name": "00469AWSON.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AWSON THREE, CONT.1",
+			"pdf_name": "00469AWSON_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEHAN ONE (RNAV)",
+			"pdf_name": "00469DEHAN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEHAN ONE (RNAV), CONT.1",
+			"pdf_name": "00469DEHAN_C.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 35",
+			"pdf_name": "06016IL35.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "06016R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "06016R35.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "GA",
+		"state_fullname": "Georgia",
+		"city_name": "CARROLLTON",
+		"airport_name": "WEST GEORGIA RGNL-O V GRAY FIELD",
+		"military": "N",
+		"apt_ident": "CTJ",
+		"icao_ident": "KCTJ",
+		"alnum": "6016"
+	}
+}

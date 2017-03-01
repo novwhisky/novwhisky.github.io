@@ -1,0 +1,92 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RAVNN SIX (RNAV)",
+			"pdf_name": "00804RAVNN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RAVNN SIX (RNAV), CONT.1",
+			"pdf_name": "00804RAVNN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RIPKN TWO",
+			"pdf_name": "00804RIPKN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RIPKN TWO, CONT.1",
+			"pdf_name": "00804RIPKN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TRSTN THREE (RNAV)",
+			"pdf_name": "05326TRSTN.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "05533R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "05533R34.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 34",
+			"pdf_name": "05533V34.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CONLE THREE (RNAV)",
+			"pdf_name": "05533CONLE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TERPZ SIX (RNAV)",
+			"pdf_name": "05533TERPZ.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TERPZ SIX (RNAV), CONT.1",
+			"pdf_name": "05533TERPZ_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MD",
+		"state_fullname": "Maryland",
+		"city_name": "WESTMINSTER",
+		"airport_name": "CARROLL COUNTY RGNL/ JACK B. POAGE FIELD",
+		"military": "N",
+		"apt_ident": "DMW",
+		"icao_ident": "KDMW",
+		"alnum": "5533"
+	}
+}

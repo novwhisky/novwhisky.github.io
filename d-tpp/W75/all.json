@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 01",
+			"pdf_name": "09364G1.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VA",
+		"state_fullname": "Virginia",
+		"city_name": "SALUDA",
+		"airport_name": "HUMMEL FIELD",
+		"military": "N",
+		"apt_ident": "W75",
+		"icao_ident": "",
+		"alnum": "9364"
+	}
+}

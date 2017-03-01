@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "NC2RAD.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "00155R4.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 04",
+			"pdf_name": "00155V4.PDF"
+		},
+		{
+			"chartseq": "59350",
+			"chart_code": "IAP",
+			"chart_name": "COPTER NDB RWY 04",
+			"pdf_name": "00155COPTERN4.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "FORT RILEY",
+		"airport_name": "MARSHALL AAF",
+		"military": "M",
+		"apt_ident": "FRI",
+		"icao_ident": "KFRI",
+		"alnum": "155"
+	}
+}

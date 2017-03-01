@@ -1,0 +1,128 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC2ALT.PDF"
+		},
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "EC2RAD.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC RWY 32",
+			"pdf_name": "00156HIL32.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 05",
+			"pdf_name": "00156IL5.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 32",
+			"pdf_name": "00156IL32.PDF"
+		},
+		{
+			"chartseq": "51500",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 05 (CAT II)",
+			"pdf_name": "00156I5C2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "00156R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "00156R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "00156R23.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00156R32.PDF"
+		},
+		{
+			"chartseq": "54250",
+			"chart_code": "IAP",
+			"chart_name": "HI-LOC BC RWY 14",
+			"pdf_name": "00156HLBC14.PDF"
+		},
+		{
+			"chartseq": "54250",
+			"chart_code": "IAP",
+			"chart_name": "LOC BC RWY 14",
+			"pdf_name": "00156LBC14.PDF"
+		},
+		{
+			"chartseq": "55850",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR TACAN RWY 05",
+			"pdf_name": "00156VT5.PDF"
+		},
+		{
+			"chartseq": "55850",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR TACAN RWY 14",
+			"pdf_name": "00156VT14.PDF"
+		},
+		{
+			"chartseq": "55850",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR TACAN RWY 23",
+			"pdf_name": "00156VT23.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 23",
+			"pdf_name": "00156HT23.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 32",
+			"pdf_name": "00156HT32.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00156AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IN",
+		"state_fullname": "Indiana",
+		"city_name": "FORT WAYNE",
+		"airport_name": "FORT WAYNE INTL",
+		"military": "N",
+		"apt_ident": "FWA",
+		"icao_ident": "KFWA",
+		"alnum": "156"
+	}
+}

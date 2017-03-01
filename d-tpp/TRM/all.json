@@ -1,0 +1,74 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CLOWD ONE",
+			"pdf_name": "00545CLOWD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SBONO ONE",
+			"pdf_name": "00545SBONO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "00529R30.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "00529R35.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 30",
+			"pdf_name": "00529VD30.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "00529VA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MECCA ONE",
+			"pdf_name": "00529MECCA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MECCA ONE, CONT.1",
+			"pdf_name": "00529MECCA_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "PALM SPRINGS",
+		"airport_name": "JACQUELINE COCHRAN RGNL",
+		"military": "N",
+		"apt_ident": "TRM",
+		"icao_ident": "KTRM",
+		"alnum": "529"
+	}
+}

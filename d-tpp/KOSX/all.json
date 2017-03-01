@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "05671R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "05671R32.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MS",
+		"state_fullname": "Mississippi",
+		"city_name": "KOSCIUSKO",
+		"airport_name": "KOSCIUSKO-ATTALA COUNTY",
+		"military": "N",
+		"apt_ident": "OSX",
+		"icao_ident": "KOSX",
+		"alnum": "5671"
+	}
+}

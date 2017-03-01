@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "05869R23.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TN",
+		"state_fullname": "Tennessee",
+		"city_name": "MCMINNVILLE",
+		"airport_name": "WARREN COUNTY MEMORIAL",
+		"military": "N",
+		"apt_ident": "RNC",
+		"icao_ident": "KRNC",
+		"alnum": "5869"
+	}
+}

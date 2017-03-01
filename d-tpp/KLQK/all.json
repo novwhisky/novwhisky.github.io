@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "UNMAN THREE (RNAV)",
+			"pdf_name": "00179UNMAN.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "06174R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "06174R23.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06174VDA.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 05",
+			"pdf_name": "06174N5.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SC",
+		"state_fullname": "South Carolina",
+		"city_name": "PICKENS",
+		"airport_name": "PICKENS COUNTY",
+		"military": "N",
+		"apt_ident": "LQK",
+		"icao_ident": "KLQK",
+		"alnum": "6174"
+	}
+}

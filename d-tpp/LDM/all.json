@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "05618R8.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "05618R26.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MI",
+		"state_fullname": "Michigan",
+		"city_name": "LUDINGTON",
+		"airport_name": "MASON COUNTY",
+		"military": "N",
+		"apt_ident": "LDM",
+		"icao_ident": "KLDM",
+		"alnum": "5618"
+	}
+}

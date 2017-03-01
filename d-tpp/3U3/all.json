@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR GPS-A",
+			"pdf_name": "06986VDGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MT",
+		"state_fullname": "Montana",
+		"city_name": "ANACONDA",
+		"airport_name": "BOWMAN FIELD",
+		"military": "N",
+		"apt_ident": "3U3",
+		"icao_ident": "",
+		"alnum": "6986"
+	}
+}

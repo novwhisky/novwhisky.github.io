@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "06731R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "06731R35.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OK",
+		"state_fullname": "Oklahoma",
+		"city_name": "MEDFORD",
+		"airport_name": "MEDFORD MUNI",
+		"military": "N",
+		"apt_ident": "O53",
+		"icao_ident": "",
+		"alnum": "6731"
+	}
+}

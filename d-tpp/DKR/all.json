@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC5TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC5ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "09412R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20",
+			"pdf_name": "09412R20.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "CROCKETT",
+		"airport_name": "HOUSTON COUNTY",
+		"military": "N",
+		"apt_ident": "DKR",
+		"icao_ident": "KDKR",
+		"alnum": "9412"
+	}
+}

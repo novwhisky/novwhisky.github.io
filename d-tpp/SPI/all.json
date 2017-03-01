@@ -1,0 +1,140 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC3ALT.PDF"
+		},
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "EC3RAD.PDF"
+		},
+		{
+			"chartseq": "10600",
+			"chart_code": "LAH",
+			"chart_name": "LAHSO",
+			"pdf_name": "EC3LAHSO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "EC3HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC RWY 22",
+			"pdf_name": "00518HIL22.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC/DME RWY 04",
+			"pdf_name": "00518HILD4.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 04",
+			"pdf_name": "00518IL4.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 22",
+			"pdf_name": "00518IL22.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 31",
+			"pdf_name": "00518IL31.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "00518R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "00518R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "00518R22.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "00518R31.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 04",
+			"pdf_name": "00518VD4.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 13",
+			"pdf_name": "00518VD13.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 22",
+			"pdf_name": "00518VD22.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 31",
+			"pdf_name": "00518VD31.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "HI-VOR/DME OR TACAN RWY 04",
+			"pdf_name": "00518HVDT4.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "HI-VOR/DME OR TACAN RWY 22",
+			"pdf_name": "00518HVDT22.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00518AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IL",
+		"state_fullname": "Illinois",
+		"city_name": "SPRINGFIELD",
+		"airport_name": "ABRAHAM LINCOLN CAPITAL",
+		"military": "N",
+		"apt_ident": "SPI",
+		"icao_ident": "KSPI",
+		"alnum": "518"
+	}
+}

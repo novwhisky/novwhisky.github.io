@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 33",
+			"pdf_name": "09285R33.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WI",
+		"state_fullname": "Wisconsin",
+		"city_name": "FRIENDSHIP (ADAMS)",
+		"airport_name": "ADAMS COUNTY LEGION FIELD",
+		"military": "N",
+		"apt_ident": "63C",
+		"icao_ident": "",
+		"alnum": "9285"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "05910R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "05910R34.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05910VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MO",
+		"state_fullname": "Missouri",
+		"city_name": "SAINT LOUIS",
+		"airport_name": "CREVE COEUR",
+		"military": "N",
+		"apt_ident": "1H0",
+		"icao_ident": "",
+		"alnum": "5910"
+	}
+}

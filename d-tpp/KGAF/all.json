@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "09022R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "09022R35.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ND",
+		"state_fullname": "North Dakota",
+		"city_name": "GRAFTON",
+		"airport_name": "HUTSON FIELD",
+		"military": "N",
+		"apt_ident": "GAF",
+		"icao_ident": "KGAF",
+		"alnum": "9022"
+	}
+}

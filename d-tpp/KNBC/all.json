@@ -1,0 +1,98 @@
+{
+	"records": [
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "SE2RAD.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "00916R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "00916R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "00916R23.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00916R32.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN X RWY 23",
+			"pdf_name": "00916HTX23.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Y RWY 14",
+			"pdf_name": "00916HTY14.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Y RWY 23",
+			"pdf_name": "00916HTY23.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 14",
+			"pdf_name": "00916HTZ14.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 23",
+			"pdf_name": "00916HTZ23.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 05",
+			"pdf_name": "00916T5.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 14",
+			"pdf_name": "00916T14.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 23",
+			"pdf_name": "00916T23.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00916AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SC",
+		"state_fullname": "South Carolina",
+		"city_name": "BEAUFORT",
+		"airport_name": "BEAUFORT MCAS (MERRITT FIELD)",
+		"military": "M",
+		"apt_ident": "NBC",
+		"icao_ident": "KNBC",
+		"alnum": "916"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS-A",
+			"pdf_name": "06840GA.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "EYESE ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "06840EYESE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MT",
+		"state_fullname": "Montana",
+		"city_name": "LIBBY",
+		"airport_name": "LIBBY",
+		"military": "N",
+		"apt_ident": "S59",
+		"icao_ident": "",
+		"alnum": "6840"
+	}
+}

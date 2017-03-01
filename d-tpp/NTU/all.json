@@ -1,0 +1,128 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "NE3RAD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TERKS TWO",
+			"pdf_name": "00291TERKS.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05L",
+			"pdf_name": "00934R5L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05R",
+			"pdf_name": "00934R5R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23L",
+			"pdf_name": "00934R23L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23R",
+			"pdf_name": "00934R23R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32L/R",
+			"pdf_name": "00934R32LR.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 05L",
+			"pdf_name": "00934HT5L.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 05R",
+			"pdf_name": "00934HT5R.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 23L/R",
+			"pdf_name": "00934HT23LR.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 32L/R",
+			"pdf_name": "00934HT32LR.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 05L",
+			"pdf_name": "00934T5L.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 05R",
+			"pdf_name": "00934T5R.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 23L/R",
+			"pdf_name": "00934T23LR.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 32L/R",
+			"pdf_name": "00934T32LR.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00934AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OCEANA THREE",
+			"pdf_name": "00934OCEANA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WYNNS TWO",
+			"pdf_name": "00934WYNNS.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VA",
+		"state_fullname": "Virginia",
+		"city_name": "VIRGINIA BEACH",
+		"airport_name": "OCEANA NAS/ APOLLO SOUCEK FIELD",
+		"military": "M",
+		"apt_ident": "NTU",
+		"icao_ident": "KNTU",
+		"alnum": "934"
+	}
+}

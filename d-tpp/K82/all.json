@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "06696R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "06696R32.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 17",
+			"pdf_name": "06696G17.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 35",
+			"pdf_name": "06696G35.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR GPS-A",
+			"pdf_name": "06696VDGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "SMITH CENTER",
+		"airport_name": "SMITH CENTER MUNI",
+		"military": "N",
+		"apt_ident": "K82",
+		"icao_ident": "",
+		"alnum": "6696"
+	}
+}

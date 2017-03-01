@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "06606R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "06606R30.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AL",
+		"state_fullname": "Alabama",
+		"city_name": "BUTLER",
+		"airport_name": "BUTLER-CHOCTAW COUNTY",
+		"military": "N",
+		"apt_ident": "09A",
+		"icao_ident": "",
+		"alnum": "6606"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "PACALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "02154R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "02154R24.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 06",
+			"pdf_name": "02154N6.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 24",
+			"pdf_name": "02154N24.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "XX",
+		"state_fullname": "Pacific Territories",
+		"city_name": "MIDWAY ATOLL,MQ",
+		"airport_name": "HENDERSON FIELD",
+		"military": "N",
+		"apt_ident": "MDY",
+		"icao_ident": "PMDY",
+		"alnum": "2154"
+	}
+}

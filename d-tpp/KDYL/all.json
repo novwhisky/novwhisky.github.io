@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE4ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "05609R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "05609R23.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 23",
+			"pdf_name": "05609VD23.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "DOYLESTOWN",
+		"airport_name": "DOYLESTOWN",
+		"military": "N",
+		"apt_ident": "DYL",
+		"icao_ident": "KDYL",
+		"alnum": "5609"
+	}
+}

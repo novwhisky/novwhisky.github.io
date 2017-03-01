@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "05284R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "05284R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "05284R32.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 14",
+			"pdf_name": "05284L14.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05284VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MD",
+		"state_fullname": "Maryland",
+		"city_name": "OCEAN CITY",
+		"airport_name": "OCEAN CITY MUNI",
+		"military": "N",
+		"apt_ident": "OXB",
+		"icao_ident": "KOXB",
+		"alnum": "5284"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 13",
+			"pdf_name": "06243R13.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "06243R31.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 13",
+			"pdf_name": "06243V13.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NE",
+		"state_fullname": "Nebraska",
+		"city_name": "COZAD",
+		"airport_name": "COZAD MUNI",
+		"military": "N",
+		"apt_ident": "CZD",
+		"icao_ident": "KCZD",
+		"alnum": "6243"
+	}
+}

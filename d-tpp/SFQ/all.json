@@ -1,0 +1,62 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TERKS TWO",
+			"pdf_name": "00291TERKS.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "06498R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 07",
+			"pdf_name": "06498R7.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "06498R22.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 25",
+			"pdf_name": "06498R25.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 04",
+			"pdf_name": "06498L4.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VA",
+		"state_fullname": "Virginia",
+		"city_name": "SUFFOLK",
+		"airport_name": "SUFFOLK EXECUTIVE",
+		"military": "N",
+		"apt_ident": "SFQ",
+		"icao_ident": "KSFQ",
+		"alnum": "6498"
+	}
+}

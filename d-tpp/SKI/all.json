@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "06143R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "06143R36.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 36",
+			"pdf_name": "06143N36.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IA",
+		"state_fullname": "Iowa",
+		"city_name": "SAC CITY",
+		"airport_name": "SAC CITY MUNI",
+		"military": "N",
+		"apt_ident": "SKI",
+		"icao_ident": "KSKI",
+		"alnum": "6143"
+	}
+}

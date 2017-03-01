@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "06355RA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "EASTON",
+		"airport_name": "BRADEN AIRPARK",
+		"military": "N",
+		"apt_ident": "N43",
+		"icao_ident": "",
+		"alnum": "6355"
+	}
+}

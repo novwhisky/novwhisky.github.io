@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "05784R14.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-B",
+			"pdf_name": "05784VDB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MA",
+		"state_fullname": "Massachusetts",
+		"city_name": "NORTHAMPTON",
+		"airport_name": "NORTHAMPTON",
+		"military": "N",
+		"apt_ident": "7B2",
+		"icao_ident": "",
+		"alnum": "5784"
+	}
+}

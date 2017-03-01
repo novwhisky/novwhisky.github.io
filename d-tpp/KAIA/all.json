@@ -1,0 +1,74 @@
+{
+	"records": [
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC2ALT.PDF"
+		},
+		{
+			"chartseq": "10600",
+			"chart_code": "LAH",
+			"chart_name": "LAHSO",
+			"pdf_name": "NC2LAHSO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 30",
+			"pdf_name": "00016ILD30.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "00016R8.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "00016R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "00016R26.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "00016R30.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 12",
+			"pdf_name": "00016V12.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 30",
+			"pdf_name": "00016V30.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00016AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NE",
+		"state_fullname": "Nebraska",
+		"city_name": "ALLIANCE",
+		"airport_name": "ALLIANCE MUNI",
+		"military": "N",
+		"apt_ident": "AIA",
+		"icao_ident": "KAIA",
+		"alnum": "16"
+	}
+}

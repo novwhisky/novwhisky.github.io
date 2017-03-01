@@ -1,0 +1,338 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE1ALT.PDF"
+		},
+		{
+			"chartseq": "10600",
+			"chart_code": "LAH",
+			"chart_name": "LAHSO",
+			"pdf_name": "NE1LAHSO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "NE1HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GARDNER FOUR",
+			"pdf_name": "00058GARDNER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JFUND ONE (RNAV)",
+			"pdf_name": "00058JFUND.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JFUND ONE (RNAV), CONT.1",
+			"pdf_name": "00058JFUND_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JFUND ONE (RNAV), CONT.2",
+			"pdf_name": "00058JFUND_C2.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "NORWICH SEVEN",
+			"pdf_name": "00058NORWICH.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "OOSHN FOUR (RNAV)",
+			"pdf_name": "00058OOSHN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "OOSHN FOUR (RNAV), CONT.1",
+			"pdf_name": "00058OOSHN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ROBUC TWO (RNAV)",
+			"pdf_name": "00058ROBUC.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ROBUC TWO (RNAV), CONT.1",
+			"pdf_name": "00058ROBUC_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ROBUC TWO (RNAV), CONT.2",
+			"pdf_name": "00058ROBUC_C2.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WOONS TWO",
+			"pdf_name": "00058WOONS.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 04R",
+			"pdf_name": "00058IL4R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 22L",
+			"pdf_name": "00058IL22L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 27",
+			"pdf_name": "00058IL27.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 33L",
+			"pdf_name": "00058IL33L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 15R",
+			"pdf_name": "00058ILD15R.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 04R (SA CAT I)",
+			"pdf_name": "00058I4RSAC1.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 33L (SA CAT I)",
+			"pdf_name": "00058I33LSAC1.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 04R (CAT II - III)",
+			"pdf_name": "00058I4RC2_3.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 33L (CAT II - III)",
+			"pdf_name": "00058I33LC2_3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04R",
+			"pdf_name": "00058R4R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 15R",
+			"pdf_name": "00058R15R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22L",
+			"pdf_name": "00058R22L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 27",
+			"pdf_name": "00058R27.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00058R32.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 33L",
+			"pdf_name": "00058R33L.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "00058VDA.PDF"
+		},
+		{
+			"chartseq": "59500",
+			"chart_code": "IAP",
+			"chart_name": "LIGHT VISUAL RWY 33L",
+			"pdf_name": "00058LIGHT_VIS33L.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00058AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BLZZR THREE (RNAV)",
+			"pdf_name": "00058BLZZR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BLZZR THREE (RNAV), CONT.1",
+			"pdf_name": "00058BLZZR_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BRUWN FOUR (RNAV)",
+			"pdf_name": "00058BRUWN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BRUWN FOUR (RNAV), CONT.1",
+			"pdf_name": "00058BRUWN_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CELTK FOUR (RNAV)",
+			"pdf_name": "00058CELTK.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CELTK FOUR (RNAV), CONT.1",
+			"pdf_name": "00058CELTK_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HYLND FOUR (RNAV)",
+			"pdf_name": "00058HYLND.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HYLND FOUR (RNAV), CONT.1",
+			"pdf_name": "00058HYLND_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LBSTA FOUR (RNAV)",
+			"pdf_name": "00058LBSTA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LBSTA FOUR (RNAV), CONT.1",
+			"pdf_name": "00058LBSTA_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LOGAN ONE",
+			"pdf_name": "00058LOGAN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LOGAN ONE, CONT.1",
+			"pdf_name": "00058LOGAN_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LOGAN ONE, CONT.2",
+			"pdf_name": "00058LOGAN_C2.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PATSS FOUR (RNAV)",
+			"pdf_name": "00058PATSS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PATSS FOUR (RNAV), CONT.1",
+			"pdf_name": "00058PATSS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "REVSS THREE (RNAV)",
+			"pdf_name": "00058REVSS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "REVSS THREE (RNAV), CONT.1",
+			"pdf_name": "00058REVSS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SSOXS FOUR (RNAV)",
+			"pdf_name": "00058SSOXS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SSOXS FOUR (RNAV), CONT.1",
+			"pdf_name": "00058SSOXS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WYLYY TWO (RNAV)",
+			"pdf_name": "00058WYLYY.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MA",
+		"state_fullname": "Massachusetts",
+		"city_name": "BOSTON",
+		"airport_name": "GENERAL EDWARD LAWRENCE LOGAN INTL",
+		"military": "N",
+		"apt_ident": "BOS",
+		"icao_ident": "KBOS",
+		"alnum": "58"
+	}
+}

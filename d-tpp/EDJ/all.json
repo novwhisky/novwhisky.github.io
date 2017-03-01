@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 07",
+			"pdf_name": "10242R7.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 25",
+			"pdf_name": "10242R25.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 07",
+			"pdf_name": "10242VD7.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 25",
+			"pdf_name": "10242VD25.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "BELLEFONTAINE",
+		"airport_name": "BELLEFONTAINE RGNL",
+		"military": "N",
+		"apt_ident": "EDJ",
+		"icao_ident": "KEDJ",
+		"alnum": "10242"
+	}
+}

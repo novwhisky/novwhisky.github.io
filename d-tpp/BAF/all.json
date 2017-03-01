@@ -1,0 +1,104 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE1ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEER PARK THREE",
+			"pdf_name": "00460DEERPARK.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "STELA ONE",
+			"pdf_name": "00460STELA.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "STELA ONE, CONT.1",
+			"pdf_name": "00460STELA_C.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC RWY 20",
+			"pdf_name": "00446HIL20.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 20",
+			"pdf_name": "00446IL20.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "00446R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20",
+			"pdf_name": "00446R20.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 20",
+			"pdf_name": "00446V20.PDF"
+		},
+		{
+			"chartseq": "55850",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR TACAN RWY 02",
+			"pdf_name": "00446VT2.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 20",
+			"pdf_name": "00446HT20.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00446AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "COASTAL SIX",
+			"pdf_name": "00446COASTAL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "COASTAL SIX, CONT.1",
+			"pdf_name": "00446COASTAL_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MA",
+		"state_fullname": "Massachusetts",
+		"city_name": "WESTFIELD/SPRINGFIELD",
+		"airport_name": "WESTFIELD-BARNES RGNL",
+		"military": "N",
+		"apt_ident": "BAF",
+		"icao_ident": "KBAF",
+		"alnum": "446"
+	}
+}

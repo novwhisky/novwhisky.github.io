@@ -1,0 +1,314 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE2ALT.PDF"
+		},
+		{
+			"chartseq": "10600",
+			"chart_code": "LAH",
+			"chart_name": "LAHSO",
+			"pdf_name": "NE2LAHSO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "NE2HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DYLIN FOUR",
+			"pdf_name": "00285DYLIN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DYLIN FOUR, CONT.1",
+			"pdf_name": "00285DYLIN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FLOSI THREE (RNAV)",
+			"pdf_name": "00285FLOSI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "PENNS TWO",
+			"pdf_name": "00285PENNS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "PHLBO THREE (RNAV)",
+			"pdf_name": "00285PHLBO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RUUTH ONE",
+			"pdf_name": "00285RUUTH.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SHAFF SEVEN",
+			"pdf_name": "00285SHAFF.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SHAFF SEVEN, CONT.1",
+			"pdf_name": "00285SHAFF_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WILLIAMSPORT THREE",
+			"pdf_name": "00285WILLIAMSPORT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 04L",
+			"pdf_name": "00285IL4L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 04R",
+			"pdf_name": "00285IL4R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 11",
+			"pdf_name": "00285IL11.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 22L",
+			"pdf_name": "00285IL22L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 22R",
+			"pdf_name": "00285IL22R.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 22L (SA CAT I)",
+			"pdf_name": "00285I22LSAC1.PDF"
+		},
+		{
+			"chartseq": "51200",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 04L (SA CAT I - II)",
+			"pdf_name": "00285I4LSAC1_2.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 04R (CAT II - III)",
+			"pdf_name": "00285I4RC2_3.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 22L (CAT II - III)",
+			"pdf_name": "00285I22LC2_3.PDF"
+		},
+		{
+			"chartseq": "53300",
+			"chart_code": "IAP",
+			"chart_name": "GLS RWY 04L",
+			"pdf_name": "00285GLS4L.PDF"
+		},
+		{
+			"chartseq": "53300",
+			"chart_code": "IAP",
+			"chart_name": "GLS RWY 04R",
+			"pdf_name": "00285GLS4R.PDF"
+		},
+		{
+			"chartseq": "53300",
+			"chart_code": "IAP",
+			"chart_name": "GLS RWY 11",
+			"pdf_name": "00285GLS11.PDF"
+		},
+		{
+			"chartseq": "53300",
+			"chart_code": "IAP",
+			"chart_name": "GLS RWY 22L",
+			"pdf_name": "00285GLS22L.PDF"
+		},
+		{
+			"chartseq": "53300",
+			"chart_code": "IAP",
+			"chart_name": "GLS RWY 22R",
+			"pdf_name": "00285GLS22R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Y RWY 22L",
+			"pdf_name": "00285RRY22L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Y RWY 29",
+			"pdf_name": "00285RRY29.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 04R",
+			"pdf_name": "00285RRZ4R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 29",
+			"pdf_name": "00285RRZ29.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04L",
+			"pdf_name": "00285R4L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 11",
+			"pdf_name": "00285R11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22R",
+			"pdf_name": "00285R22R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) X RWY 29",
+			"pdf_name": "00285RX29.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 04R",
+			"pdf_name": "00285RY4R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 22L",
+			"pdf_name": "00285RZ22L.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 11",
+			"pdf_name": "00285V11.PDF"
+		},
+		{
+			"chartseq": "59000",
+			"chart_code": "IAP",
+			"chart_name": "COPTER ILS OR LOC/DME RWY 04L",
+			"pdf_name": "00285COPTERILD4L.PDF"
+		},
+		{
+			"chartseq": "59050",
+			"chart_code": "IAP",
+			"chart_name": "COPTER ILS/DME RWY 22L",
+			"pdf_name": "00285COPTERID22L.PDF"
+		},
+		{
+			"chartseq": "59500",
+			"chart_code": "IAP",
+			"chart_name": "BRIDGE VISUAL RWY 29",
+			"pdf_name": "00285BRIDGE_VIS29.PDF"
+		},
+		{
+			"chartseq": "59500",
+			"chart_code": "IAP",
+			"chart_name": "STADIUM VISUAL RWY 29",
+			"pdf_name": "00285STADIUM_VIS29.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00285AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LIBERTY THREE",
+			"pdf_name": "00285LIBERTY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LIBERTY THREE, CONT.1",
+			"pdf_name": "00285LIBERTY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NEWARK TWO",
+			"pdf_name": "00285NEWARK.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NEWARK TWO, CONT.1",
+			"pdf_name": "00285NEWARK_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NEWARK TWO, CONT.2",
+			"pdf_name": "00285NEWARK_C2.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PORTT THREE (RNAV)",
+			"pdf_name": "00285PORTT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PORTT THREE (RNAV), CONT.1",
+			"pdf_name": "00285PORTT_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NJ",
+		"state_fullname": "New Jersey",
+		"city_name": "NEWARK",
+		"airport_name": "NEWARK LIBERTY INTL",
+		"military": "N",
+		"apt_ident": "EWR",
+		"icao_ident": "KEWR",
+		"alnum": "285"
+	}
+}

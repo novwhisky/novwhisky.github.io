@@ -1,0 +1,74 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME Y RWY 19R",
+			"pdf_name": "05001ILDY19R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME Z RWY 19R",
+			"pdf_name": "05001ILDZ19R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01L",
+			"pdf_name": "05001R1L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01R",
+			"pdf_name": "05001R1R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19L",
+			"pdf_name": "05001R19L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19R",
+			"pdf_name": "05001R19R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "05001RA.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 01L",
+			"pdf_name": "05001VD1L.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05001AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "BETHEL",
+		"airport_name": "BETHEL",
+		"military": "N",
+		"apt_ident": "BET",
+		"icao_ident": "PABE",
+		"alnum": "5001"
+	}
+}

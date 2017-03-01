@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE3TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TUXXI TWO",
+			"pdf_name": "00449TUXXI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WLACE THREE (RNAV)",
+			"pdf_name": "00449WLACE.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 33",
+			"pdf_name": "00448R33.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "00448RA.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-B",
+			"pdf_name": "00448RB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "FL",
+		"state_fullname": "Florida",
+		"city_name": "WEST PALM BEACH",
+		"airport_name": "PALM BEACH COUNTY PARK",
+		"military": "N",
+		"apt_ident": "LNA",
+		"icao_ident": "KLNA",
+		"alnum": "448"
+	}
+}

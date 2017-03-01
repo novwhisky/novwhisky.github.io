@@ -1,0 +1,110 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW2ALT.PDF"
+		},
+		{
+			"chartseq": "10600",
+			"chart_code": "LAH",
+			"chart_name": "LAHSO",
+			"pdf_name": "SW2LAHSO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SW2HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 36L",
+			"pdf_name": "00281IL36L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "00281R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 36L",
+			"pdf_name": "00281RY36L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 36L",
+			"pdf_name": "00281RZ36L.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 06",
+			"pdf_name": "00281V6.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00281AD.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "NAPAA TWO (OBSTACLE)",
+			"pdf_name": "00281NAPAA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LIZRD FOUR",
+			"pdf_name": "00281LIZRD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MERLOT TWO",
+			"pdf_name": "00281MERLOT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MERLOT TWO, CONT.1",
+			"pdf_name": "00281MERLOT_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OZIEE TWO (RNAV)",
+			"pdf_name": "00281OZIEE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OZIEE TWO (RNAV), CONT.1",
+			"pdf_name": "00281OZIEE_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "NAPA",
+		"airport_name": "NAPA COUNTY",
+		"military": "N",
+		"apt_ident": "APC",
+		"icao_ident": "KAPC",
+		"alnum": "281"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "06052R31.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06052VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ND",
+		"state_fullname": "North Dakota",
+		"city_name": "MOHALL",
+		"airport_name": "MOHALL MUNI",
+		"military": "N",
+		"apt_ident": "HBC",
+		"icao_ident": "KHBC",
+		"alnum": "6052"
+	}
+}

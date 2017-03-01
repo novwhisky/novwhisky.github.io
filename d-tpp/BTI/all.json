@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 07",
+			"pdf_name": "02306R7.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 25",
+			"pdf_name": "02306R25.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "BARTER ISLAND",
+		"airport_name": "BARTER ISLAND LRRS",
+		"military": "N",
+		"apt_ident": "BTI",
+		"icao_ident": "PABA",
+		"alnum": "2306"
+	}
+}

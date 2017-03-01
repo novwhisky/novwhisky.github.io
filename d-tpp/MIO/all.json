@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "06012R17.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06012VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OK",
+		"state_fullname": "Oklahoma",
+		"city_name": "MIAMI",
+		"airport_name": "MIAMI RGNL",
+		"military": "N",
+		"apt_ident": "MIO",
+		"icao_ident": "KMIO",
+		"alnum": "6012"
+	}
+}

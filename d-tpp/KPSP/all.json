@@ -1,0 +1,86 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW3TO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "SW3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW3ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SW3HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CLOWD ONE",
+			"pdf_name": "00545CLOWD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SBONO ONE",
+			"pdf_name": "00545SBONO.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Y RWY 31L",
+			"pdf_name": "00545RRY31L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 13R",
+			"pdf_name": "00545RRZ13R.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR GPS-B",
+			"pdf_name": "00545VGB.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00545AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CATHEDRAL ONE",
+			"pdf_name": "00545CATHEDRAL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "THERMAL SIX",
+			"pdf_name": "00545THERMAL.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "PALM SPRINGS",
+		"airport_name": "PALM SPRINGS INTL",
+		"military": "N",
+		"apt_ident": "PSP",
+		"icao_ident": "KPSP",
+		"alnum": "545"
+	}
+}

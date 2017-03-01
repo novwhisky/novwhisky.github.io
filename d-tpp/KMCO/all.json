@@ -1,0 +1,290 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BAIRN THREE (RNAV)",
+			"pdf_name": "00571BAIRN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BITHO SEVEN",
+			"pdf_name": "00571BITHO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BUGGZ TWO (RNAV)",
+			"pdf_name": "00571BUGGZ.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "COSTR THREE (RNAV)",
+			"pdf_name": "00571COSTR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "COSTR THREE (RNAV), CONT.1",
+			"pdf_name": "00571COSTR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CWRLD FOUR (RNAV)",
+			"pdf_name": "00571CWRLD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GOOFY SIX",
+			"pdf_name": "00571GOOFY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LEESE TWO",
+			"pdf_name": "00571LEESE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LEESE TWO, CONT.1",
+			"pdf_name": "00571LEESE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MINEE FIVE",
+			"pdf_name": "00571MINEE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MINEE FIVE, CONT.1",
+			"pdf_name": "00571MINEE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "PIGLT FOUR (RNAV)",
+			"pdf_name": "00571PIGLT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 17L",
+			"pdf_name": "00571IL17L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 17R",
+			"pdf_name": "00571IL17R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 18R",
+			"pdf_name": "00571IL18R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 35L",
+			"pdf_name": "00571IL35L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 35R",
+			"pdf_name": "00571IL35R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 36R",
+			"pdf_name": "00571IL36R.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 17L (SA CAT I)",
+			"pdf_name": "00571I17LSAC1.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 35L (SA CAT I)",
+			"pdf_name": "00571I35LSAC1.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 35R (SA CAT I)",
+			"pdf_name": "00571I35RSAC1.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 36R (SA CAT I)",
+			"pdf_name": "00571I36RSAC1.PDF"
+		},
+		{
+			"chartseq": "51500",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 17L (CAT II)",
+			"pdf_name": "00571I17LC2.PDF"
+		},
+		{
+			"chartseq": "51500",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 17R (CAT II)",
+			"pdf_name": "00571I17RC2.PDF"
+		},
+		{
+			"chartseq": "51500",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 35R (CAT II)",
+			"pdf_name": "00571I35RC2.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 35L (CAT II - III)",
+			"pdf_name": "00571I35LC2_3.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 36R (CAT II - III)",
+			"pdf_name": "00571I36RC2_3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17L",
+			"pdf_name": "00571R17L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17R",
+			"pdf_name": "00571R17R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18L",
+			"pdf_name": "00571R18L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18R",
+			"pdf_name": "00571R18R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35L",
+			"pdf_name": "00571R35L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35R",
+			"pdf_name": "00571R35R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36L",
+			"pdf_name": "00571R36L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36R",
+			"pdf_name": "00571R36R.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 18L",
+			"pdf_name": "00571VD18L.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 18R",
+			"pdf_name": "00571VD18R.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00571AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CITRUS EIGHT",
+			"pdf_name": "00571CITRUS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JAGUAR FIVE",
+			"pdf_name": "00571JAGUAR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JAGUAR FIVE, CONT.1",
+			"pdf_name": "00571JAGUAR_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MCCOY ONE",
+			"pdf_name": "00571MCCOY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MCCOY ONE, CONT.1",
+			"pdf_name": "00571MCCOY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ORLANDO TWO",
+			"pdf_name": "00571ORLANDO.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "FL",
+		"state_fullname": "Florida",
+		"city_name": "ORLANDO",
+		"airport_name": "ORLANDO INTL",
+		"military": "N",
+		"apt_ident": "MCO",
+		"icao_ident": "KMCO",
+		"alnum": "571"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "AKALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "06821R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "06821R23.PDF"
+		},
+		{
+			"chartseq": "57000",
+			"chart_code": "IAP",
+			"chart_name": "NDB/DME-A",
+			"pdf_name": "06821NDA.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB-B",
+			"pdf_name": "06821NB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "MEKORYUK",
+		"airport_name": "MEKORYUK",
+		"military": "N",
+		"apt_ident": "MYU",
+		"icao_ident": "PAMY",
+		"alnum": "6821"
+	}
+}

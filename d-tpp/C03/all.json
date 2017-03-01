@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR GPS-B",
+			"pdf_name": "05794VGB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IN",
+		"state_fullname": "Indiana",
+		"city_name": "NAPPANEE",
+		"airport_name": "NAPPANEE MUNI",
+		"military": "N",
+		"apt_ident": "C03",
+		"icao_ident": "",
+		"alnum": "5794"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "10400R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "10400R32.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ND",
+		"state_fullname": "North Dakota",
+		"city_name": "LISBON",
+		"airport_name": "LISBON MUNI",
+		"military": "N",
+		"apt_ident": "6L3",
+		"icao_ident": "",
+		"alnum": "10400"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "09372R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "09372R24.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "FREMONT",
+		"airport_name": "SANDUSKY COUNTY RGNL",
+		"military": "N",
+		"apt_ident": "S24",
+		"icao_ident": "",
+		"alnum": "9372"
+	}
+}

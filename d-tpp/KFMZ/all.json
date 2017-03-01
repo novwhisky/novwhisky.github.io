@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "06908R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "06908R35.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 17",
+			"pdf_name": "06908N17.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 35",
+			"pdf_name": "06908N35.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NE",
+		"state_fullname": "Nebraska",
+		"city_name": "FAIRMONT",
+		"airport_name": "FAIRMONT STATE AIRFIELD",
+		"military": "N",
+		"apt_ident": "FMZ",
+		"icao_ident": "KFMZ",
+		"alnum": "6908"
+	}
+}

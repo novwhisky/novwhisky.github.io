@@ -1,0 +1,242 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE3ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SE3HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BLUFI THREE",
+			"pdf_name": "00744BLUFI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CURSO FOUR (RNAV)",
+			"pdf_name": "00257CURSO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CURSO FOUR (RNAV), CONT.1",
+			"pdf_name": "00257CURSO_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CURSO FOUR (RNAV), CONT.2",
+			"pdf_name": "00257CURSO_C2.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEKAL FOUR",
+			"pdf_name": "00744DEKAL.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DVALL TWO",
+			"pdf_name": "00257DVALL.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FISEL SIX (RNAV)",
+			"pdf_name": "00744FISEL.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FORTL SIX",
+			"pdf_name": "00744FORTL.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GISSH FOUR",
+			"pdf_name": "00744GISSH.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GISSH FOUR, CONT.1",
+			"pdf_name": "00744GISSH_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JINGL FOUR (RNAV)",
+			"pdf_name": "00744JINGL.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WAVUN TWO (RNAV)",
+			"pdf_name": "00744WAVUN.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 10L",
+			"pdf_name": "00744IL10L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 10R",
+			"pdf_name": "00744IL10R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 28L",
+			"pdf_name": "00744IL28L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 28R",
+			"pdf_name": "00744IL28R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Y RWY 10L",
+			"pdf_name": "00744RRY10L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 28R",
+			"pdf_name": "00744RRZ28R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10R",
+			"pdf_name": "00744R10R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28L",
+			"pdf_name": "00744R28L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 28R",
+			"pdf_name": "00744RY28R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 10L",
+			"pdf_name": "00744RZ10L.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00744AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ARKES FOUR (RNAV)",
+			"pdf_name": "00744ARKES.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ARKES FOUR (RNAV), CONT.1",
+			"pdf_name": "00744ARKES_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BAHMA FIVE (RNAV)",
+			"pdf_name": "00744BAHMA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BEECH FIVE (RNAV)",
+			"pdf_name": "00744BEECH.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "FORT LAUDERDALE SIX",
+			"pdf_name": "00744FORTLAUDERDALE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "FORT LAUDERDALE SIX, CONT.1",
+			"pdf_name": "00744FORTLAUDERDALE_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PREDA FOUR (RNAV)",
+			"pdf_name": "00744PREDA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PREDA FOUR (RNAV), CONT.1",
+			"pdf_name": "00744PREDA_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "THNDR FOUR (RNAV)",
+			"pdf_name": "00744THNDR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "THNDR FOUR (RNAV), CONT.1",
+			"pdf_name": "00744THNDR_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ZAPPA FOUR (RNAV)",
+			"pdf_name": "00744ZAPPA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ZAPPA FOUR (RNAV), CONT.1",
+			"pdf_name": "00744ZAPPA_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "FL",
+		"state_fullname": "Florida",
+		"city_name": "FORT LAUDERDALE",
+		"airport_name": "FORT LAUDERDALE-HOLLYWOOD INTL",
+		"military": "N",
+		"apt_ident": "FLL",
+		"icao_ident": "KFLL",
+		"alnum": "744"
+	}
+}

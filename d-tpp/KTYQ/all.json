@@ -1,0 +1,98 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC2ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RACYR FOUR",
+			"pdf_name": "00203RACYR.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 36",
+			"pdf_name": "05438IL36.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05438R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "05438R36.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 18",
+			"pdf_name": "05438VD18.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DAWNN NINE",
+			"pdf_name": "05438DAWNN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DAWNN NINE, CONT.1",
+			"pdf_name": "05438DAWNN_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HOOSIER FOUR",
+			"pdf_name": "05438HOOSIER.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MAREO FOUR",
+			"pdf_name": "05438MAREO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MEARZ FOUR",
+			"pdf_name": "05438MEARZ.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MEARZ FOUR, CONT.1",
+			"pdf_name": "05438MEARZ_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ROCKY NINE",
+			"pdf_name": "05438ROCKY.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IN",
+		"state_fullname": "Indiana",
+		"city_name": "INDIANAPOLIS",
+		"airport_name": "INDIANAPOLIS EXECUTIVE",
+		"military": "N",
+		"apt_ident": "TYQ",
+		"icao_ident": "KTYQ",
+		"alnum": "5438"
+	}
+}

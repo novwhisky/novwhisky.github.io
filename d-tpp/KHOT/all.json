@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC1ALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 05",
+			"pdf_name": "00902IL5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "00902R5.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR Z RWY 05",
+			"pdf_name": "00902VZ5.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AR",
+		"state_fullname": "Arkansas",
+		"city_name": "HOT SPRINGS",
+		"airport_name": "MEMORIAL FIELD",
+		"military": "N",
+		"apt_ident": "HOT",
+		"icao_ident": "KHOT",
+		"alnum": "902"
+	}
+}

@@ -1,0 +1,194 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW2TO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "SW2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW2ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SW2HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CONCORD TWO",
+			"pdf_name": "05490CONCORD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FLUNK THREE",
+			"pdf_name": "05490FLUNK.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SLMMR THREE (RNAV)",
+			"pdf_name": "05490SLMMR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SUUTR TWO (RNAV)",
+			"pdf_name": "05490SUUTR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TUDOR TWO",
+			"pdf_name": "05490TUDOR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TUDOR TWO, CONT.1",
+			"pdf_name": "05490TUDOR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WRAPS SIX",
+			"pdf_name": "05490WRAPS.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 16L",
+			"pdf_name": "05490IL16L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 16R",
+			"pdf_name": "05490IL16R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 34L",
+			"pdf_name": "05490IL34L.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 16R (SA CAT I)",
+			"pdf_name": "05490I16RSAC1.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 16R (CAT II - III)",
+			"pdf_name": "05490I16RC2_3.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 16L",
+			"pdf_name": "05490RRZ16L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 16R",
+			"pdf_name": "05490RRZ16R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 34L",
+			"pdf_name": "05490RRZ34L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 34R",
+			"pdf_name": "05490RRZ34R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 16L",
+			"pdf_name": "05490RY16L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 16R",
+			"pdf_name": "05490RY16R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 34L",
+			"pdf_name": "05490RY34L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 34R",
+			"pdf_name": "05490RY34R.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05490AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DUDES NINE",
+			"pdf_name": "05490DUDES.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "FROGO SIX",
+			"pdf_name": "05490FROGO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "FTHIL TWO (RNAV)",
+			"pdf_name": "05490FTHIL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "RVRCT TWO (RNAV)",
+			"pdf_name": "05490RVRCT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SCTWN TWO (RNAV)",
+			"pdf_name": "05490SCTWN.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "SACRAMENTO",
+		"airport_name": "SACRAMENTO INTL",
+		"military": "N",
+		"apt_ident": "SMF",
+		"icao_ident": "KSMF",
+		"alnum": "5490"
+	}
+}

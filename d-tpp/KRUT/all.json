@@ -1,0 +1,62 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE1ALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME Y RWY 19",
+			"pdf_name": "00968ILDY19.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME Z RWY 19",
+			"pdf_name": "00968ILDZ19.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "00968R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 19",
+			"pdf_name": "00968RY19.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 19",
+			"pdf_name": "00968RZ19.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 01",
+			"pdf_name": "00968VD1.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VT",
+		"state_fullname": "Vermont",
+		"city_name": "RUTLAND",
+		"airport_name": "RUTLAND-SOUTHERN VERMONT RGNL",
+		"military": "N",
+		"apt_ident": "RUT",
+		"icao_ident": "KRUT",
+		"alnum": "968"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "09491R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "09491R34.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "ENNIS ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "09491ENNIS.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MT",
+		"state_fullname": "Montana",
+		"city_name": "ENNIS",
+		"airport_name": "ENNIS-BIG SKY",
+		"military": "N",
+		"apt_ident": "EKS",
+		"icao_ident": "KEKS",
+		"alnum": "9491"
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC/DME RWY 13",
+			"pdf_name": "06553HILD13.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 13",
+			"pdf_name": "06553ILD13.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 13",
+			"pdf_name": "06553HT13.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 13",
+			"pdf_name": "06553T13.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 31",
+			"pdf_name": "06553T31.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN-A",
+			"pdf_name": "06553TA.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "06553AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "ORANGE GROVE",
+		"airport_name": "ORANGE GROVE NALF",
+		"military": "M",
+		"apt_ident": "NOG",
+		"icao_ident": "KNOG",
+		"alnum": "6553"
+	}
+}

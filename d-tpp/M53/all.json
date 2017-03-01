@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "05828R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "05828R22.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TN",
+		"state_fullname": "Tennessee",
+		"city_name": "HUMBOLDT",
+		"airport_name": "HUMBOLDT MUNI",
+		"military": "N",
+		"apt_ident": "M53",
+		"icao_ident": "",
+		"alnum": "5828"
+	}
+}

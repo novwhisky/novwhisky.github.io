@@ -1,0 +1,68 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DRONE ONE",
+			"pdf_name": "00291DRONE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DRONE ONE, CONT.1",
+			"pdf_name": "00291DRONE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TERKS TWO",
+			"pdf_name": "00291TERKS.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 05",
+			"pdf_name": "06488IL5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "06488R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "06488R23.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 23",
+			"pdf_name": "06488VD23.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VA",
+		"state_fullname": "Virginia",
+		"city_name": "NORFOLK",
+		"airport_name": "CHESAPEAKE RGNL",
+		"military": "N",
+		"apt_ident": "CPK",
+		"icao_ident": "KCPK",
+		"alnum": "6488"
+	}
+}

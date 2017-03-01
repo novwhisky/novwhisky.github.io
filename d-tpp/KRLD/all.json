@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "05966R26.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 19",
+			"pdf_name": "05966RY19.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 19",
+			"pdf_name": "05966RZ19.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 19",
+			"pdf_name": "05966L19.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "05966VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WA",
+		"state_fullname": "Washington",
+		"city_name": "RICHLAND",
+		"airport_name": "RICHLAND",
+		"military": "N",
+		"apt_ident": "RLD",
+		"icao_ident": "KRLD",
+		"alnum": "5966"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "09198RA.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "JATTS ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "09198JATTS.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ID",
+		"state_fullname": "Idaho",
+		"city_name": "ARCO",
+		"airport_name": "ARCO-BUTTE COUNTY",
+		"military": "N",
+		"apt_ident": "AOC",
+		"icao_ident": "KAOC",
+		"alnum": "9198"
+	}
+}

@@ -1,0 +1,164 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE3ALT.PDF"
+		},
+		{
+			"chartseq": "10600",
+			"chart_code": "LAH",
+			"chart_name": "LAHSO",
+			"pdf_name": "SE3LAHSO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SE3HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FRWAY FIVE (RNAV)",
+			"pdf_name": "00449FRWAY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TUXXI TWO",
+			"pdf_name": "00449TUXXI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WLACE THREE (RNAV)",
+			"pdf_name": "00449WLACE.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 10L",
+			"pdf_name": "00449IL10L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 28R",
+			"pdf_name": "00449IL28R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 10L",
+			"pdf_name": "00449RRZ10L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 14",
+			"pdf_name": "00449RRZ14.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 28R",
+			"pdf_name": "00449RRZ28R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 32",
+			"pdf_name": "00449RRZ32.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 10L",
+			"pdf_name": "00449RY10L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 14",
+			"pdf_name": "00449RY14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 28R",
+			"pdf_name": "00449RY28R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 32",
+			"pdf_name": "00449RY32.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00449AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BUFIT TWO (RNAV)",
+			"pdf_name": "00449BUFIT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LMORE TWO (RNAV)",
+			"pdf_name": "00449LMORE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MIXAE TWO (RNAV)",
+			"pdf_name": "00449MIXAE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PALM BEACH EIGHT",
+			"pdf_name": "00449PALMBEACH.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PALM BEACH EIGHT, CONT.1",
+			"pdf_name": "00449PALMBEACH_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SLIDZ ONE (RNAV)",
+			"pdf_name": "00449SLIDZ.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TBIRD TWO (RNAV)",
+			"pdf_name": "00449TBIRD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "FL",
+		"state_fullname": "Florida",
+		"city_name": "WEST PALM BEACH",
+		"airport_name": "PALM BEACH INTL",
+		"military": "N",
+		"apt_ident": "PBI",
+		"icao_ident": "KPBI",
+		"alnum": "449"
+	}
+}

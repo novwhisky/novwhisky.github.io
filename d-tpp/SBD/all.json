@@ -1,0 +1,68 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW3TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SETER FOUR",
+			"pdf_name": "00965SETER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ZIGGY FIVE",
+			"pdf_name": "00965ZIGGY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ZIGGY FIVE, CONT.1",
+			"pdf_name": "00965ZIGGY_C.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC Z RWY 06",
+			"pdf_name": "00547ILZ6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 06",
+			"pdf_name": "00547RY6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 06",
+			"pdf_name": "00547RZ6.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC Y RWY 06",
+			"pdf_name": "00547LY6.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00547AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "SAN BERNARDINO",
+		"airport_name": "SAN BERNARDINO INTL",
+		"military": "N",
+		"apt_ident": "SBD",
+		"icao_ident": "KSBD",
+		"alnum": "547"
+	}
+}

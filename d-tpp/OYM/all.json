@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "05500R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28",
+			"pdf_name": "05500R28.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME RWY 28",
+			"pdf_name": "05500LD28.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 28",
+			"pdf_name": "05500V28.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "SAINT MARYS",
+		"airport_name": "ST MARYS MUNI",
+		"military": "N",
+		"apt_ident": "OYM",
+		"icao_ident": "KOYM",
+		"alnum": "5500"
+	}
+}

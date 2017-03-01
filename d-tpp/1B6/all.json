@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "06217RA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MA",
+		"state_fullname": "Massachusetts",
+		"city_name": "HOPEDALE",
+		"airport_name": "HOPEDALE INDUSTRIAL PARK",
+		"military": "N",
+		"apt_ident": "1B6",
+		"icao_ident": "",
+		"alnum": "6217"
+	}
+}

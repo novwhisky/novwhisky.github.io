@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "05033R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "05033R19.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05033VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ME",
+		"state_fullname": "Maine",
+		"city_name": "CARIBOU",
+		"airport_name": "CARIBOU MUNI",
+		"military": "N",
+		"apt_ident": "CAR",
+		"icao_ident": "KCAR",
+		"alnum": "5033"
+	}
+}

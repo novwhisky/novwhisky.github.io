@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-B",
+			"pdf_name": "06427RB.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 20",
+			"pdf_name": "06427G20.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06427VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "MONTE VISTA",
+		"airport_name": "MONTE VISTA MUNI",
+		"military": "N",
+		"apt_ident": "MVI",
+		"icao_ident": "KMVI",
+		"alnum": "6427"
+	}
+}

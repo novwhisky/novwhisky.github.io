@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "10139RA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NH",
+		"state_fullname": "New Hampshire",
+		"city_name": "NEWPORT",
+		"airport_name": "PARLIN FIELD",
+		"military": "N",
+		"apt_ident": "2B3",
+		"icao_ident": "",
+		"alnum": "10139"
+	}
+}

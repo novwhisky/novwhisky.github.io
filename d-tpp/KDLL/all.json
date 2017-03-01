@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "05319R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "05319R19.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME RWY 01",
+			"pdf_name": "05319LD1.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05319VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WI",
+		"state_fullname": "Wisconsin",
+		"city_name": "BARABOO",
+		"airport_name": "BARABOO WISCONSIN DELLS",
+		"military": "N",
+		"apt_ident": "DLL",
+		"icao_ident": "KDLL",
+		"alnum": "5319"
+	}
+}

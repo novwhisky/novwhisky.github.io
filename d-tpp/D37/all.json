@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "09385R30.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MN",
+		"state_fullname": "Minnesota",
+		"city_name": "WARREN",
+		"airport_name": "WARREN  MUNI",
+		"military": "N",
+		"apt_ident": "D37",
+		"icao_ident": "",
+		"alnum": "9385"
+	}
+}

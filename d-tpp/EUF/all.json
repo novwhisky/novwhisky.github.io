@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05367R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "05367R36.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 36",
+			"pdf_name": "05367VD36.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 18",
+			"pdf_name": "05367V18.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AL",
+		"state_fullname": "Alabama",
+		"city_name": "EUFAULA",
+		"airport_name": "WEEDON FIELD",
+		"military": "N",
+		"apt_ident": "EUF",
+		"icao_ident": "KEUF",
+		"alnum": "5367"
+	}
+}

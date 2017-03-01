@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AGUDE FOUR",
+			"pdf_name": "00263AGUDE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TWOLF TWO",
+			"pdf_name": "00264TWOLF.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TWOLF TWO, CONT.1",
+			"pdf_name": "00264TWOLF_C.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "05526R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28",
+			"pdf_name": "05526R28.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WI",
+		"state_fullname": "Wisconsin",
+		"city_name": "OSCEOLA",
+		"airport_name": "L.O. SIMENSTAD MUNI",
+		"military": "N",
+		"apt_ident": "OEO",
+		"icao_ident": "KOEO",
+		"alnum": "5526"
+	}
+}

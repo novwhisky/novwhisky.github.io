@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05685R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "05685R36.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "05685VDA.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-B",
+			"pdf_name": "05685VDB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MS",
+		"state_fullname": "Mississippi",
+		"city_name": "INDIANOLA",
+		"airport_name": "INDIANOLA MUNI",
+		"military": "N",
+		"apt_ident": "IDL",
+		"icao_ident": "KIDL",
+		"alnum": "5685"
+	}
+}

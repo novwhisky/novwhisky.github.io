@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 33",
+			"pdf_name": "09303R33.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MN",
+		"state_fullname": "Minnesota",
+		"city_name": "ADA/TWIN VALLEY",
+		"airport_name": "NORMAN COUNTY ADA/TWIN VALLEY",
+		"military": "N",
+		"apt_ident": "D00",
+		"icao_ident": "",
+		"alnum": "9303"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "06504R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "06504R30.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME RWY 30",
+			"pdf_name": "06504LD30.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB-A",
+			"pdf_name": "06504NA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KY",
+		"state_fullname": "Kentucky",
+		"city_name": "DANVILLE",
+		"airport_name": "STUART POWELL FIELD",
+		"military": "N",
+		"apt_ident": "DVK",
+		"icao_ident": "KDVK",
+		"alnum": "6504"
+	}
+}

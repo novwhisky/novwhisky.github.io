@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SEA ISLE FOUR",
+			"pdf_name": "05623SEAISLE.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "05529R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "05529R19.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05529VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NJ",
+		"state_fullname": "New Jersey",
+		"city_name": "LUMBERTON",
+		"airport_name": "FLYING W",
+		"military": "N",
+		"apt_ident": "N14",
+		"icao_ident": "",
+		"alnum": "5529"
+	}
+}

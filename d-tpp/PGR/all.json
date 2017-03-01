@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "05544R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "05544R22.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 04",
+			"pdf_name": "05544V4.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AR",
+		"state_fullname": "Arkansas",
+		"city_name": "PARAGOULD",
+		"airport_name": "KIRK FIELD",
+		"military": "N",
+		"apt_ident": "PGR",
+		"icao_ident": "KPGR",
+		"alnum": "5544"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 16",
+			"pdf_name": "09146G16.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "DAVVY ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "09146DAVVY.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "LOZUL THREE (OBSTACLE) (RNAV)",
+			"pdf_name": "09146LOZUL.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "LEADVILLE",
+		"airport_name": "LAKE COUNTY",
+		"military": "N",
+		"apt_ident": "LXV",
+		"icao_ident": "KLXV",
+		"alnum": "9146"
+	}
+}

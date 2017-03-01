@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "00431R3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 21",
+			"pdf_name": "00431R21.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "00431R26.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 21",
+			"pdf_name": "00431V21.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 26",
+			"pdf_name": "00431V26.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "TUCUMCARI",
+		"airport_name": "TUCUMCARI MUNI",
+		"military": "N",
+		"apt_ident": "TCC",
+		"icao_ident": "KTCC",
+		"alnum": "431"
+	}
+}

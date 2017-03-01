@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TIKEE THREE (RNAV)",
+			"pdf_name": "00443TIKEE.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "09027R6.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MD",
+		"state_fullname": "Maryland",
+		"city_name": "FRIENDLY",
+		"airport_name": "POTOMAC AIRFIELD",
+		"military": "N",
+		"apt_ident": "VKX",
+		"icao_ident": "KVKX",
+		"alnum": "9027"
+	}
+}

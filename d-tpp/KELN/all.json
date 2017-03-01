@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 25",
+			"pdf_name": "00130R25.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 29",
+			"pdf_name": "00130R29.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-C",
+			"pdf_name": "00130RC.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "00130VDA.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-B",
+			"pdf_name": "00130VB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WA",
+		"state_fullname": "Washington",
+		"city_name": "ELLENSBURG",
+		"airport_name": "BOWERS FIELD",
+		"military": "N",
+		"apt_ident": "ELN",
+		"icao_ident": "KELN",
+		"alnum": "130"
+	}
+}

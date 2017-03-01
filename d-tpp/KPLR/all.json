@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "05886R3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 21",
+			"pdf_name": "05886R21.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AL",
+		"state_fullname": "Alabama",
+		"city_name": "PELL CITY",
+		"airport_name": "SAINT CLAIR COUNTY",
+		"military": "N",
+		"apt_ident": "PLR",
+		"icao_ident": "KPLR",
+		"alnum": "5886"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-B",
+			"pdf_name": "09277RB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MD",
+		"state_fullname": "Maryland",
+		"city_name": "CHURCHVILLE",
+		"airport_name": "HARFORD COUNTY",
+		"military": "N",
+		"apt_ident": "0W3",
+		"icao_ident": "",
+		"alnum": "9277"
+	}
+}

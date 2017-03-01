@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "05818R8.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "05818R26.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KY",
+		"state_fullname": "Kentucky",
+		"city_name": "GLASGOW",
+		"airport_name": "GLASGOW MUNI",
+		"military": "N",
+		"apt_ident": "GLW",
+		"icao_ident": "KGLW",
+		"alnum": "5818"
+	}
+}

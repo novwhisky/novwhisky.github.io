@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "10409R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "10409R30.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MO",
+		"state_fullname": "Missouri",
+		"city_name": "MEMPHIS",
+		"airport_name": "MEMPHIS MEMORIAL",
+		"military": "N",
+		"apt_ident": "03D",
+		"icao_ident": "",
+		"alnum": "10409"
+	}
+}

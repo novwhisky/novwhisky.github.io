@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 07",
+			"pdf_name": "05249R7.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 07",
+			"pdf_name": "05249L7.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "RI",
+		"state_fullname": "Rhode Island",
+		"city_name": "WESTERLY",
+		"airport_name": "WESTERLY STATE",
+		"military": "N",
+		"apt_ident": "WST",
+		"icao_ident": "KWST",
+		"alnum": "5249"
+	}
+}

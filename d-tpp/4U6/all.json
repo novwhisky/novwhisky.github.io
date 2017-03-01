@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 12",
+			"pdf_name": "10493R12.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "10493R30.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MT",
+		"state_fullname": "Montana",
+		"city_name": "CIRCLE",
+		"airport_name": "CIRCLE TOWN COUNTY",
+		"military": "N",
+		"apt_ident": "4U6",
+		"icao_ident": "",
+		"alnum": "10493"
+	}
+}

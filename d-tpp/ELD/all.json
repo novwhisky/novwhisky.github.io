@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 22",
+			"pdf_name": "00637IL22.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "00637R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "00637R22.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 04",
+			"pdf_name": "00637VD4.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AR",
+		"state_fullname": "Arkansas",
+		"city_name": "EL DORADO",
+		"airport_name": "SOUTH ARKANSAS RGNL AT GOODWIN FIELD",
+		"military": "N",
+		"apt_ident": "ELD",
+		"icao_ident": "KELD",
+		"alnum": "637"
+	}
+}

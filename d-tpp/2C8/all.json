@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "09452R34.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ND",
+		"state_fullname": "North Dakota",
+		"city_name": "CAVALIER",
+		"airport_name": "CAVALIER MUNI",
+		"military": "N",
+		"apt_ident": "2C8",
+		"icao_ident": "",
+		"alnum": "9452"
+	}
+}

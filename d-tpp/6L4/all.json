@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "09378R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "09378R24.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WV",
+		"state_fullname": "West Virginia",
+		"city_name": "LOGAN",
+		"airport_name": "LOGAN COUNTY",
+		"military": "N",
+		"apt_ident": "6L4",
+		"icao_ident": "",
+		"alnum": "9378"
+	}
+}

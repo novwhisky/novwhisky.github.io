@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 01",
+			"pdf_name": "05771R1.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 19",
+			"pdf_name": "05771R19.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 19",
+			"pdf_name": "05771VD19.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TN",
+		"state_fullname": "Tennessee",
+		"city_name": "SAVANNAH",
+		"airport_name": "SAVANNAH-HARDIN COUNTY",
+		"military": "N",
+		"apt_ident": "SNH",
+		"icao_ident": "KSNH",
+		"alnum": "5771"
+	}
+}

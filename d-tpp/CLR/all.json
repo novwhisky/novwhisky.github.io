@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "09486R8.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "CALIPATRIA",
+		"airport_name": "CLIFF HATFIELD MEMORIAL",
+		"military": "N",
+		"apt_ident": "CLR",
+		"icao_ident": "KCLR",
+		"alnum": "9486"
+	}
+}

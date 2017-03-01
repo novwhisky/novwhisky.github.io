@@ -1,0 +1,146 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "COATT FOUR",
+			"pdf_name": "05100COATT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DOCCS TWO",
+			"pdf_name": "05100DOCCS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DOCCS TWO, CONT.1",
+			"pdf_name": "05100DOCCS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GIBBZ TWO (RNAV)",
+			"pdf_name": "05100GIBBZ.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GIBBZ TWO (RNAV), CONT.1",
+			"pdf_name": "05100GIBBZ_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "HYPER SEVEN (RNAV)",
+			"pdf_name": "05100HYPER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "HYPER SEVEN (RNAV), CONT.1",
+			"pdf_name": "05100HYPER_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "HYPER SEVEN (RNAV), CONT.2",
+			"pdf_name": "05100HYPER_C2.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "PRIVO ONE",
+			"pdf_name": "05100PRIVO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "PRIVO ONE, CONT.1",
+			"pdf_name": "05100PRIVO_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TRSTN THREE (RNAV)",
+			"pdf_name": "05326TRSTN.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 17",
+			"pdf_name": "05288IL17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "05288R17.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CLTCH ONE (RNAV)",
+			"pdf_name": "05288CLTCH.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CLTCH ONE (RNAV), CONT.1",
+			"pdf_name": "05288CLTCH_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JDUBB ONE (RNAV)",
+			"pdf_name": "05288JDUBB.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JDUBB ONE (RNAV), CONT.1",
+			"pdf_name": "05288JDUBB_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PTOMC TWO (RNAV)",
+			"pdf_name": "05288PTOMC.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SCRAM THREE (RNAV)",
+			"pdf_name": "05288SCRAM.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SCRAM THREE (RNAV), CONT.1",
+			"pdf_name": "05288SCRAM_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VA",
+		"state_fullname": "Virginia",
+		"city_name": "LEESBURG",
+		"airport_name": "LEESBURG EXECUTIVE",
+		"military": "N",
+		"apt_ident": "JYO",
+		"icao_ident": "KJYO",
+		"alnum": "5288"
+	}
+}

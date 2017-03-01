@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 15",
+			"pdf_name": "06720R15.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MD",
+		"state_fullname": "Maryland",
+		"city_name": "COLLEGE PARK",
+		"airport_name": "COLLEGE PARK",
+		"military": "N",
+		"apt_ident": "CGS",
+		"icao_ident": "KCGS",
+		"alnum": "6720"
+	}
+}

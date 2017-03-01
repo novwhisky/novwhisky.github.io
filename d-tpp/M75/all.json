@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "09493R8.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "09493R26.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MT",
+		"state_fullname": "Montana",
+		"city_name": "MALTA",
+		"airport_name": "MALTA",
+		"military": "N",
+		"apt_ident": "M75",
+		"icao_ident": "",
+		"alnum": "9493"
+	}
+}

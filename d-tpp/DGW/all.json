@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 11",
+			"pdf_name": "06870R11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 29",
+			"pdf_name": "06870R29.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 29",
+			"pdf_name": "06870V29.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WY",
+		"state_fullname": "Wyoming",
+		"city_name": "DOUGLAS",
+		"airport_name": "CONVERSE COUNTY",
+		"military": "N",
+		"apt_ident": "DGW",
+		"icao_ident": "KDGW",
+		"alnum": "6870"
+	}
+}

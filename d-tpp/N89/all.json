@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 04",
+			"pdf_name": "09390G4.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 22",
+			"pdf_name": "09390G22.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NY",
+		"state_fullname": "New York",
+		"city_name": "ELLENVILLE",
+		"airport_name": "JOSEPH Y RESNICK",
+		"military": "N",
+		"apt_ident": "N89",
+		"icao_ident": "",
+		"alnum": "9390"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00995R32.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "00995VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MA",
+		"state_fullname": "Massachusetts",
+		"city_name": "ORANGE",
+		"airport_name": "ORANGE MUNI",
+		"military": "N",
+		"apt_ident": "ORE",
+		"icao_ident": "KORE",
+		"alnum": "995"
+	}
+}

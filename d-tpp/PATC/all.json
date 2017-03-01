@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "02334R34.PDF"
+		},
+		{
+			"chartseq": "57000",
+			"chart_code": "IAP",
+			"chart_name": "NDB/DME RWY 34",
+			"pdf_name": "02334ND34.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "HONPO ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "02334HONPO.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "JEKLI ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "02334JEKLI.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TIN CITY FOUR RWY 16",
+			"pdf_name": "02334TINCITY16.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "TIN CITY",
+		"airport_name": "TIN CITY LRRS",
+		"military": "M",
+		"apt_ident": "TNC",
+		"icao_ident": "PATC",
+		"alnum": "2334"
+	}
+}

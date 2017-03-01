@@ -1,0 +1,158 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SW4HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ARLIN THREE",
+			"pdf_name": "00322ARLIN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BLYTHE FOUR",
+			"pdf_name": "00322BLYTHE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DSERT TWO (RNAV)",
+			"pdf_name": "00322DSERT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DSERT TWO (RNAV), CONT.1",
+			"pdf_name": "00322DSERT_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "HUUTY ONE (RNAV)",
+			"pdf_name": "00074HUUTY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JCOBS TWO",
+			"pdf_name": "05651JCOBS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JCOBS TWO, CONT.1",
+			"pdf_name": "05651JCOBS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SUNSS SEVEN",
+			"pdf_name": "00322SUNSS.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04R",
+			"pdf_name": "06494R4R.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 04R",
+			"pdf_name": "06494V4R.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 04R",
+			"pdf_name": "06494N4R.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "06494AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BNYRD FIVE (RNAV)",
+			"pdf_name": "06494BNYRD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "FTHLS FIVE (RNAV)",
+			"pdf_name": "06494FTHLS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "IZZZO FIVE (RNAV)",
+			"pdf_name": "06494IZZZO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JUDTH FIVE (RNAV)",
+			"pdf_name": "06494JUDTH.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KATMN FIVE (RNAV)",
+			"pdf_name": "06494KATMN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LALUZ FIVE (RNAV)",
+			"pdf_name": "06494LALUZ.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MAYSA FIVE (RNAV)",
+			"pdf_name": "06494MAYSA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SNOBL FIVE (RNAV)",
+			"pdf_name": "06494SNOBL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "YOTES FIVE (RNAV)",
+			"pdf_name": "06494YOTES.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AZ",
+		"state_fullname": "Arizona",
+		"city_name": "CHANDLER",
+		"airport_name": "CHANDLER MUNI",
+		"military": "N",
+		"apt_ident": "CHD",
+		"icao_ident": "KCHD",
+		"alnum": "6494"
+	}
+}

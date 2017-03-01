@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "05695R3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 21",
+			"pdf_name": "05695R21.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05695VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AR",
+		"state_fullname": "Arkansas",
+		"city_name": "MONTICELLO",
+		"airport_name": "MONTICELLO MUNI/ELLIS FIELD",
+		"military": "N",
+		"apt_ident": "LLQ",
+		"icao_ident": "KLLQ",
+		"alnum": "5695"
+	}
+}

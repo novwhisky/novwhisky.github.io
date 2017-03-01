@@ -1,0 +1,20 @@
+{
+	"records": [
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TIKEE THREE (RNAV)",
+			"pdf_name": "00443TIKEE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VA",
+		"state_fullname": "Virginia",
+		"city_name": "UPPERVILLE",
+		"airport_name": "UPPERVILLE",
+		"military": "N",
+		"apt_ident": "2VG2",
+		"icao_ident": "",
+		"alnum": "11016"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE1ALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS Y OR LOC Y RWY 26",
+			"pdf_name": "05051IYLY26.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS Z OR LOC Z RWY 26",
+			"pdf_name": "05051IZLZ26.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "05051R26.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "05051VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TN",
+		"state_fullname": "Tennessee",
+		"city_name": "CROSSVILLE",
+		"airport_name": "CROSSVILLE MEMORIAL-WHITSON FIELD",
+		"military": "N",
+		"apt_ident": "CSV",
+		"icao_ident": "KCSV",
+		"alnum": "5051"
+	}
+}

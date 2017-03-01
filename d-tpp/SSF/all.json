@@ -1,0 +1,164 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC3ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SC3HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BRAUN ONE (RNAV)",
+			"pdf_name": "00369BRAUN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BRAUN ONE (RNAV), CONT.1",
+			"pdf_name": "00369BRAUN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BRAUN ONE (RNAV), CONT.2",
+			"pdf_name": "00369BRAUN_C2.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CENTERPOINT ONE",
+			"pdf_name": "00369CENTERPOINT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LEMIG ONE",
+			"pdf_name": "00369LEMIG.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MARCS NINE",
+			"pdf_name": "00369MARCS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MARCS NINE, CONT.1",
+			"pdf_name": "00369MARCS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "STONEWALL ONE",
+			"pdf_name": "00369STONEWALL.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "00372R32.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 32",
+			"pdf_name": "00372V32.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00372AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ALAMO ONE",
+			"pdf_name": "00372ALAMO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ALAMO ONE, CONT.1",
+			"pdf_name": "00372ALAMO_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ALISS FOUR (RNAV)",
+			"pdf_name": "00372ALISS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ALISS FOUR (RNAV), CONT.1",
+			"pdf_name": "00372ALISS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BOWIE SIX",
+			"pdf_name": "00372BOWIE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BOWIE SIX, CONT.1",
+			"pdf_name": "00372BOWIE_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LEJON THREE",
+			"pdf_name": "00372LEJON.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MILET THREE (RNAV)",
+			"pdf_name": "00372MILET.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SETZR ONE (RNAV)",
+			"pdf_name": "00372SETZR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SETZR ONE (RNAV), CONT.1",
+			"pdf_name": "00372SETZR_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "THREE RIVERS THREE (RNAV)",
+			"pdf_name": "00372THREERIVERS.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "SAN ANTONIO",
+		"airport_name": "STINSON MUNI",
+		"military": "N",
+		"apt_ident": "SSF",
+		"icao_ident": "KSSF",
+		"alnum": "372"
+	}
+}

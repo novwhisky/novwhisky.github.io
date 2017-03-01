@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "10338R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28",
+			"pdf_name": "10338R28.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AL",
+		"state_fullname": "Alabama",
+		"city_name": "CENTREVILLE",
+		"airport_name": "BIBB COUNTY",
+		"military": "N",
+		"apt_ident": "0A8",
+		"icao_ident": "",
+		"alnum": "10338"
+	}
+}

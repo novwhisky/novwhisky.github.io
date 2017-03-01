@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 09",
+			"pdf_name": "09242R9.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 27",
+			"pdf_name": "09242R27.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WI",
+		"state_fullname": "Wisconsin",
+		"city_name": "TOMAHAWK",
+		"airport_name": "TOMAHAWK RGNL",
+		"military": "N",
+		"apt_ident": "TKV",
+		"icao_ident": "KTKV",
+		"alnum": "9242"
+	}
+}

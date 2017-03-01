@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW1ALT.PDF"
+		},
+		{
+			"chartseq": "51000",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 04",
+			"pdf_name": "05144IL4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "05144R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "05144R22.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 30",
+			"pdf_name": "05144R30.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 22",
+			"pdf_name": "05144V22.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "CLOVIS",
+		"airport_name": "CLOVIS MUNI",
+		"military": "N",
+		"apt_ident": "CVN",
+		"icao_ident": "KCVN",
+		"alnum": "5144"
+	}
+}

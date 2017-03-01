@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW4ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "00260R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "00260R34.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "00260VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "UT",
+		"state_fullname": "Utah",
+		"city_name": "MILFORD",
+		"airport_name": "MILFORD MUNI/BEN AND JUDY BRISCOE FIELD",
+		"military": "N",
+		"apt_ident": "MLF",
+		"icao_ident": "KMLF",
+		"alnum": "260"
+	}
+}

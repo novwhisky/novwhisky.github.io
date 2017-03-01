@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "06397R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "06397R36.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 18",
+			"pdf_name": "06397L18.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06397VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "LA",
+		"state_fullname": "Louisiana",
+		"city_name": "BOGALUSA",
+		"airport_name": "GEORGE R. CARR MEMORIAL AIR FIELD",
+		"military": "N",
+		"apt_ident": "BXA",
+		"icao_ident": "KBXA",
+		"alnum": "6397"
+	}
+}

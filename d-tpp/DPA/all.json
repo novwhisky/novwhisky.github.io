@@ -1,0 +1,146 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC3ALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 02L",
+			"pdf_name": "05104IL2L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 10",
+			"pdf_name": "05104IL10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02L",
+			"pdf_name": "05104R2L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02R",
+			"pdf_name": "05104R2R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "05104R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20L",
+			"pdf_name": "05104R20L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20R",
+			"pdf_name": "05104R20R.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05104AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ADELL FOUR (RNAV)",
+			"pdf_name": "05104ADELL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ADELL FOUR (RNAV), CONT.1",
+			"pdf_name": "05104ADELL_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BLOKR FOUR (RNAV)",
+			"pdf_name": "05104BLOKR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BLOKR FOUR (RNAV), CONT.1",
+			"pdf_name": "05104BLOKR_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CARYN FOUR (RNAV)",
+			"pdf_name": "05104CARYN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CARYN FOUR (RNAV), CONT.1",
+			"pdf_name": "05104CARYN_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DARCY FOUR (RNAV)",
+			"pdf_name": "05104DARCY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DARCY FOUR (RNAV), CONT.1",
+			"pdf_name": "05104DARCY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ELANR FOUR (RNAV)",
+			"pdf_name": "05104ELANR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ELANR FOUR (RNAV), CONT.1",
+			"pdf_name": "05104ELANR_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OBENE TWO (RNAV)",
+			"pdf_name": "05104OBENE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OBENE TWO (RNAV), CONT.1",
+			"pdf_name": "05104OBENE_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IL",
+		"state_fullname": "Illinois",
+		"city_name": "CHICAGO (WEST CHICAGO)",
+		"airport_name": "DUPAGE",
+		"military": "N",
+		"apt_ident": "DPA",
+		"icao_ident": "KDPA",
+		"alnum": "5104"
+	}
+}

@@ -1,0 +1,146 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "NW1HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CHINS TWO",
+			"pdf_name": "00582CHINS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CHINS TWO, CONT.1",
+			"pdf_name": "00582CHINS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "EPHRATA EIGHT",
+			"pdf_name": "00582EPHRATA.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GLASR ONE",
+			"pdf_name": "00582GLASR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GLASR ONE, CONT.1",
+			"pdf_name": "00582GLASR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JAWBN FIVE",
+			"pdf_name": "00582JAWBN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "OLYMPIA TWO",
+			"pdf_name": "00582OLYMPIA.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "OLYMPIA TWO, CONT.1",
+			"pdf_name": "00582OLYMPIA_C.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 31L",
+			"pdf_name": "00384IL31L.PDF"
+		},
+		{
+			"chartseq": "51000",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 13R",
+			"pdf_name": "00384I13R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 13R",
+			"pdf_name": "00384RRZ13R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 13R",
+			"pdf_name": "00384RY13R.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME RWY 13R",
+			"pdf_name": "00384LD13R.PDF"
+		},
+		{
+			"chartseq": "59500",
+			"chart_code": "IAP",
+			"chart_name": "HARBOR VISUAL RWY 13R",
+			"pdf_name": "00384HARBOR_VIS13R.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00384AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KENT SEVEN",
+			"pdf_name": "00384KENT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KENT SEVEN, CONT.1",
+			"pdf_name": "00384KENT_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NEEDLE NINE",
+			"pdf_name": "00384NEEDLE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NEEDLE NINE, CONT.1",
+			"pdf_name": "00384NEEDLE_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WA",
+		"state_fullname": "Washington",
+		"city_name": "SEATTLE",
+		"airport_name": "BOEING FIELD/KING COUNTY INTL",
+		"military": "N",
+		"apt_ident": "BFI",
+		"icao_ident": "KBFI",
+		"alnum": "384"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-A",
+			"pdf_name": "10349RA.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "WALRU ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "10349WALRU.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "WALDEN",
+		"airport_name": "WALDEN-JACKSON COUNTY",
+		"military": "N",
+		"apt_ident": "33V",
+		"icao_ident": "",
+		"alnum": "10349"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "05795R3.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AR",
+		"state_fullname": "Arkansas",
+		"city_name": "MORRILTON",
+		"airport_name": "PETIT JEAN PARK",
+		"military": "N",
+		"apt_ident": "MPJ",
+		"icao_ident": "KMPJ",
+		"alnum": "5795"
+	}
+}

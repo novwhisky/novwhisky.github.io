@@ -1,0 +1,50 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "AKALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 11",
+			"pdf_name": "09226R11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 29",
+			"pdf_name": "09226R29.PDF"
+		},
+		{
+			"chartseq": "57000",
+			"chart_code": "IAP",
+			"chart_name": "NDB/DME RWY 11",
+			"pdf_name": "09226ND11.PDF"
+		},
+		{
+			"chartseq": "57000",
+			"chart_code": "IAP",
+			"chart_name": "NDB/DME RWY 29",
+			"pdf_name": "09226ND29.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "BUCKLAND",
+		"airport_name": "BUCKLAND",
+		"military": "N",
+		"apt_ident": "BVK",
+		"icao_ident": "PABL",
+		"alnum": "9226"
+	}
+}

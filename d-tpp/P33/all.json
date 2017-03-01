@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "00085R3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 21",
+			"pdf_name": "00085R21.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "COCHISE ONE (OBSTACLE)",
+			"pdf_name": "00085COCHISE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AZ",
+		"state_fullname": "Arizona",
+		"city_name": "WILLCOX",
+		"airport_name": "COCHISE COUNTY",
+		"military": "N",
+		"apt_ident": "P33",
+		"icao_ident": "",
+		"alnum": "85"
+	}
+}

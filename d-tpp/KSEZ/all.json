@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 03",
+			"pdf_name": "06169G3.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "OATES ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "06169OATES.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AZ",
+		"state_fullname": "Arizona",
+		"city_name": "SEDONA",
+		"airport_name": "SEDONA",
+		"military": "N",
+		"apt_ident": "SEZ",
+		"icao_ident": "KSEZ",
+		"alnum": "6169"
+	}
+}

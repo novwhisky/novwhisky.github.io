@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-B",
+			"pdf_name": "05335RB.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-C",
+			"pdf_name": "05335RC.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05335VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NH",
+		"state_fullname": "New Hampshire",
+		"city_name": "JAFFREY",
+		"airport_name": "JAFFREY AIRPORT-SILVER RANCH",
+		"military": "N",
+		"apt_ident": "AFN",
+		"icao_ident": "KAFN",
+		"alnum": "5335"
+	}
+}

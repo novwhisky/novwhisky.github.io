@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SEA ISLE FOUR",
+			"pdf_name": "05623SEAISLE.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 11",
+			"pdf_name": "05045R11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 29",
+			"pdf_name": "05045R29.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 29",
+			"pdf_name": "05045V29.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NJ",
+		"state_fullname": "New Jersey",
+		"city_name": "ROBBINSVILLE",
+		"airport_name": "TRENTON-ROBBINSVILLE",
+		"military": "N",
+		"apt_ident": "N87",
+		"icao_ident": "",
+		"alnum": "5045"
+	}
+}

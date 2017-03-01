@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-D",
+			"pdf_name": "05142RD.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-C",
+			"pdf_name": "05142VC.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "WICHITA",
+		"airport_name": "CESSNA AIRCRAFT FIELD",
+		"military": "N",
+		"apt_ident": "CEA",
+		"icao_ident": "KCEA",
+		"alnum": "5142"
+	}
+}

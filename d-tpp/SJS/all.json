@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "06991R3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 21",
+			"pdf_name": "06991R21.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KY",
+		"state_fullname": "Kentucky",
+		"city_name": "PRESTONSBURG",
+		"airport_name": "BIG SANDY RGNL",
+		"military": "N",
+		"apt_ident": "SJS",
+		"icao_ident": "KSJS",
+		"alnum": "6991"
+	}
+}

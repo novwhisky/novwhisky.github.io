@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "06259R4.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06259VDA.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 04",
+			"pdf_name": "06259N4.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "LA",
+		"state_fullname": "Louisiana",
+		"city_name": "MARKSVILLE",
+		"airport_name": "MARKSVILLE MUNI",
+		"military": "N",
+		"apt_ident": "MKV",
+		"icao_ident": "KMKV",
+		"alnum": "6259"
+	}
+}

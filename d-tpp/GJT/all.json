@@ -1,0 +1,104 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW1ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SW1HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 11",
+			"pdf_name": "00634IL11.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 11",
+			"pdf_name": "00634RRZ11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 29",
+			"pdf_name": "00634R29.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 11",
+			"pdf_name": "00634RY11.PDF"
+		},
+		{
+			"chartseq": "54500",
+			"chart_code": "IAP",
+			"chart_name": "LDA/DME RWY 29",
+			"pdf_name": "00634LDAD29.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00634AD.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "MONUMENT TWO (OBSTACLE)",
+			"pdf_name": "00634MONUMENT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GRAND JUNCTION SEVEN",
+			"pdf_name": "00634GRANDJUNCTION.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GRAND MESA ONE",
+			"pdf_name": "00634GRANDMESA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GRAND MESA ONE  , CONT.1",
+			"pdf_name": "00634GRANDMESA_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NOKXI ONE (RNAV)",
+			"pdf_name": "00634NOKXI.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "RHONE TWO (RNAV)",
+			"pdf_name": "00634RHONE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "GRAND JUNCTION",
+		"airport_name": "GRAND JUNCTION RGNL",
+		"military": "N",
+		"apt_ident": "GJT",
+		"icao_ident": "KGJT",
+		"alnum": "634"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE2ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "KABEE ONE (RNAV)",
+			"pdf_name": "09155KABEE.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME Y RWY 28",
+			"pdf_name": "05683ILDY28.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME Z RWY 28",
+			"pdf_name": "05683ILDZ28.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 10",
+			"pdf_name": "05683R10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 28",
+			"pdf_name": "05683R28.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 10",
+			"pdf_name": "05683VD10.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NC",
+		"state_fullname": "North Carolina",
+		"city_name": "STATESVILLE",
+		"airport_name": "STATESVILLE RGNL",
+		"military": "N",
+		"apt_ident": "SVH",
+		"icao_ident": "KSVH",
+		"alnum": "5683"
+	}
+}

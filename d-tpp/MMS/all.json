@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "05691R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20",
+			"pdf_name": "05691R20.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MS",
+		"state_fullname": "Mississippi",
+		"city_name": "MARKS",
+		"airport_name": "SELFS",
+		"military": "N",
+		"apt_ident": "MMS",
+		"icao_ident": "KMMS",
+		"alnum": "5691"
+	}
+}

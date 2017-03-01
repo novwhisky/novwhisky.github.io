@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 09",
+			"pdf_name": "05113R9.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 27",
+			"pdf_name": "05113R27.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05113VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MI",
+		"state_fullname": "Michigan",
+		"city_name": "GRAND HAVEN",
+		"airport_name": "GRAND HAVEN MEMORIAL AIRPARK",
+		"military": "N",
+		"apt_ident": "3GM",
+		"icao_ident": "",
+		"alnum": "5113"
+	}
+}

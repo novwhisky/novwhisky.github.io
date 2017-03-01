@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "06321R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "06321R36.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06321VDA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OK",
+		"state_fullname": "Oklahoma",
+		"city_name": "POTEAU",
+		"airport_name": "ROBERT S. KERR",
+		"military": "N",
+		"apt_ident": "RKR",
+		"icao_ident": "KRKR",
+		"alnum": "6321"
+	}
+}

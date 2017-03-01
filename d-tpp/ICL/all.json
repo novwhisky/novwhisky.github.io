@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "06103R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20",
+			"pdf_name": "06103R20.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB-A",
+			"pdf_name": "06103NA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IA",
+		"state_fullname": "Iowa",
+		"city_name": "CLARINDA",
+		"airport_name": "SCHENCK FIELD",
+		"military": "N",
+		"apt_ident": "ICL",
+		"icao_ident": "KICL",
+		"alnum": "6103"
+	}
+}

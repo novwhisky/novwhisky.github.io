@@ -1,0 +1,242 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC2ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SC2HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DODJE FIVE",
+			"pdf_name": "06918DODJE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DODJE FIVE, CONT.1",
+			"pdf_name": "06918DODJE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GREGS EIGHT",
+			"pdf_name": "00106GREGS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GREGS EIGHT, CONT.1",
+			"pdf_name": "00106GREGS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JFRYE THREE (RNAV)",
+			"pdf_name": "00106JFRYE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LIKES THREE (RNAV)",
+			"pdf_name": "06918LIKES.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "REEKO THREE (RNAV)",
+			"pdf_name": "06918REEKO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SASIE FIVE",
+			"pdf_name": "06918SASIE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SASIE FIVE, CONT.1",
+			"pdf_name": "06918SASIE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SLUGG SEVEN",
+			"pdf_name": "06918SLUGG.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SLUGG SEVEN, CONT.1",
+			"pdf_name": "06918SLUGG_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TRUUK TWO (RNAV)",
+			"pdf_name": "06918TRUUK.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 18",
+			"pdf_name": "05866IL18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05866R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "05866R36.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 18",
+			"pdf_name": "05866N18.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05866AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DALLAS FOUR",
+			"pdf_name": "05866DALLAS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DALLAS FOUR, CONT.1",
+			"pdf_name": "05866DALLAS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GARLAND SIX",
+			"pdf_name": "05866GARLAND.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GARLAND SIX, CONT.1",
+			"pdf_name": "05866GARLAND_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HUBBARD NINE",
+			"pdf_name": "05866HUBBARD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HUBBARD NINE, CONT.1",
+			"pdf_name": "05866HUBBARD_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JOE POOL NINE",
+			"pdf_name": "05866JOEPOOL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JOE POOL NINE, CONT.1",
+			"pdf_name": "05866JOEPOOL_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KINGDOM THREE",
+			"pdf_name": "05866KINGDOM.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KINGDOM THREE, CONT.1",
+			"pdf_name": "05866KINGDOM_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KUSSO THREE (RNAV)",
+			"pdf_name": "05866KUSSO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KUSSO THREE (RNAV), CONT.1",
+			"pdf_name": "05866KUSSO_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SWABR FOUR (RNAV)",
+			"pdf_name": "05866SWABR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SWABR FOUR (RNAV), CONT.1",
+			"pdf_name": "05866SWABR_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TEXOMA FIVE",
+			"pdf_name": "05866TEXOMA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TEXOMA FIVE, CONT.1",
+			"pdf_name": "05866TEXOMA_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WORTH ONE",
+			"pdf_name": "05866WORTH.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WORTH ONE, CONT.1",
+			"pdf_name": "05866WORTH_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "DENTON",
+		"airport_name": "DENTON ENTERPRISE",
+		"military": "N",
+		"apt_ident": "DTO",
+		"icao_ident": "KDTO",
+		"alnum": "5866"
+	}
+}

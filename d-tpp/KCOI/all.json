@@ -1,0 +1,68 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE3ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BITHO SEVEN",
+			"pdf_name": "00571BITHO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "COSTR THREE (RNAV)",
+			"pdf_name": "00571COSTR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "COSTR THREE (RNAV), CONT.1",
+			"pdf_name": "00571COSTR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GOOFY SIX",
+			"pdf_name": "00571GOOFY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MINEE FIVE",
+			"pdf_name": "00571MINEE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MINEE FIVE, CONT.1",
+			"pdf_name": "00571MINEE_C.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 11",
+			"pdf_name": "06988R11.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "FL",
+		"state_fullname": "Florida",
+		"city_name": "MERRITT ISLAND",
+		"airport_name": "MERRITT ISLAND",
+		"military": "N",
+		"apt_ident": "COI",
+		"icao_ident": "KCOI",
+		"alnum": "6988"
+	}
+}

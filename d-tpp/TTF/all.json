@@ -1,0 +1,56 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "EC1ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CRUXX FIVE",
+			"pdf_name": "00467CRUXX.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SPRTN THREE",
+			"pdf_name": "00118SPRTN.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "05642R3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 21",
+			"pdf_name": "05642R21.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 21",
+			"pdf_name": "05642V21.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MI",
+		"state_fullname": "Michigan",
+		"city_name": "MONROE",
+		"airport_name": "CUSTER",
+		"military": "N",
+		"apt_ident": "TTF",
+		"icao_ident": "KTTF",
+		"alnum": "5642"
+	}
+}

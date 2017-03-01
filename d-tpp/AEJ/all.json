@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 33",
+			"pdf_name": "09302R33.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "PUEBLO ONE (OBSTACLE) (RNAV)",
+			"pdf_name": "09302PUEBLO.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CO",
+		"state_fullname": "Colorado",
+		"city_name": "BUENA VISTA",
+		"airport_name": "CENTRAL COLORADO RGNL",
+		"military": "N",
+		"apt_ident": "AEJ",
+		"icao_ident": "KAEJ",
+		"alnum": "9302"
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ADYMS TWO (RNAV)",
+			"pdf_name": "00414ADYMS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ADYMS TWO (RNAV), CONT.1",
+			"pdf_name": "00414ADYMS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ARRIE SEVEN",
+			"pdf_name": "00414ARRIE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ELLENSBURG THREE (RNAV)",
+			"pdf_name": "00414ELLENSBURG.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GLASR ONE",
+			"pdf_name": "00582GLASR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GLASR ONE, CONT.1",
+			"pdf_name": "00582GLASR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JAWBN FIVE",
+			"pdf_name": "00582JAWBN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WHYTE FIVE",
+			"pdf_name": "00414WHYTE.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 16",
+			"pdf_name": "00414IL16.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 34",
+			"pdf_name": "00414IL34.PDF"
+		},
+		{
+			"chartseq": "51500",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 34 (CAT II)",
+			"pdf_name": "00414I34C2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "00414R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "00414R34.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 16",
+			"pdf_name": "00414T16.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 34",
+			"pdf_name": "00414T34.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00414AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ALDER TWO",
+			"pdf_name": "00414ALDER.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MOCAA THREE (RNAV)",
+			"pdf_name": "00414MOCAA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OLYMPIC FOUR",
+			"pdf_name": "00414OLYMPIC.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PUGET SIX",
+			"pdf_name": "00414PUGET.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WA",
+		"state_fullname": "Washington",
+		"city_name": "TACOMA",
+		"airport_name": "MCCHORD FIELD",
+		"military": "M",
+		"apt_ident": "TCM",
+		"icao_ident": "KTCM",
+		"alnum": "414"
+	}
+}

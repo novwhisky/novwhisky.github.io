@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "05473R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "05473R35.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05473VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NY",
+		"state_fullname": "New York",
+		"city_name": "MILLBROOK",
+		"airport_name": "SKY ACRES",
+		"military": "N",
+		"apt_ident": "44N",
+		"icao_ident": "",
+		"alnum": "5473"
+	}
+}

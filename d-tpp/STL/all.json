@@ -1,0 +1,500 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "NC3HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AARCH ONE (RNAV)",
+			"pdf_name": "00360AARCH.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AARCH ONE (RNAV), CONT.1",
+			"pdf_name": "00360AARCH_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BOOSH ONE (RNAV)",
+			"pdf_name": "00360BOOSH.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BOOSH ONE (RNAV), CONT.1",
+			"pdf_name": "00360BOOSH_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "KAYLA ONE (RNAV)",
+			"pdf_name": "00360KAYLA.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "KAYLA ONE (RNAV), CONT.1",
+			"pdf_name": "00360KAYLA_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LORLE ONE (RNAV)",
+			"pdf_name": "00360LORLE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LORLE ONE (RNAV), CONT.1",
+			"pdf_name": "00360LORLE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "QBALL NINE",
+			"pdf_name": "00360QBALL.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "QBALL NINE, CONT.1",
+			"pdf_name": "00360QBALL_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RIVERS FOUR",
+			"pdf_name": "00360RIVERS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TRAKE NINE",
+			"pdf_name": "00360TRAKE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "VANDALIA EIGHT",
+			"pdf_name": "00360VANDALIA.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 06",
+			"pdf_name": "00360IL6.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 11",
+			"pdf_name": "00360IL11.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 12L",
+			"pdf_name": "00360IL12L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 12R",
+			"pdf_name": "00360IL12R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 24",
+			"pdf_name": "00360IL24.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 29",
+			"pdf_name": "00360IL29.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 30L",
+			"pdf_name": "00360IL30L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 30R",
+			"pdf_name": "00360IL30R.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 11 (CAT II - III)",
+			"pdf_name": "00360I11C2_3.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 12L (CAT II - III)",
+			"pdf_name": "00360I12LC2_3.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 30R (CAT II - III)",
+			"pdf_name": "00360I30RC2_3.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 11",
+			"pdf_name": "00360RRZ11.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 12L",
+			"pdf_name": "00360RRZ12L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 12R",
+			"pdf_name": "00360RRZ12R.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 29",
+			"pdf_name": "00360RRZ29.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 30L",
+			"pdf_name": "00360RRZ30L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 30R",
+			"pdf_name": "00360RRZ30R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "00360R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "00360R24.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 11",
+			"pdf_name": "00360RY11.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 12L",
+			"pdf_name": "00360RY12L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 12R",
+			"pdf_name": "00360RY12R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 29",
+			"pdf_name": "00360RY29.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 30L",
+			"pdf_name": "00360RY30L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 30R",
+			"pdf_name": "00360RY30R.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 12R",
+			"pdf_name": "00360T12R.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 30L",
+			"pdf_name": "00360T30L.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00360AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BERYY THREE (RNAV)",
+			"pdf_name": "00360BERYY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BERYY THREE (RNAV), CONT.1",
+			"pdf_name": "00360BERYY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BGOOD THREE (RNAV)",
+			"pdf_name": "00360BGOOD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BGOOD THREE (RNAV), CONT.1",
+			"pdf_name": "00360BGOOD_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BLUES FIVE",
+			"pdf_name": "00360BLUES.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BRAKK THREE (RNAV)",
+			"pdf_name": "00360BRAKK.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BRAKK THREE (RNAV), CONT.1",
+			"pdf_name": "00360BRAKK_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CARDS NINE",
+			"pdf_name": "00360CARDS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CARDS NINE, CONT.1",
+			"pdf_name": "00360CARDS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CHUUC THREE (RNAV)",
+			"pdf_name": "00360CHUUC.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CHUUC THREE (RNAV), CONT.1",
+			"pdf_name": "00360CHUUC_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DRUSE THREE (RNAV)",
+			"pdf_name": "00360DRUSE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DRUSE THREE (RNAV), CONT.1",
+			"pdf_name": "00360DRUSE_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "EEMOS THREE (RNAV)",
+			"pdf_name": "00360EEMOS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "EEMOS THREE (RNAV), CONT.1",
+			"pdf_name": "00360EEMOS_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GATEWAY EIGHT",
+			"pdf_name": "00360GATEWAY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GATEWAY EIGHT, CONT.1",
+			"pdf_name": "00360GATEWAY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JAHNY THREE (RNAV)",
+			"pdf_name": "00360JAHNY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JAHNY THREE (RNAV), CONT.1",
+			"pdf_name": "00360JAHNY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JHART FOUR (RNAV)",
+			"pdf_name": "00360JHART.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JHART FOUR (RNAV), CONT.1",
+			"pdf_name": "00360JHART_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KSHEE THREE (RNAV)",
+			"pdf_name": "00360KSHEE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KSHEE THREE (RNAV), CONT.1",
+			"pdf_name": "00360KSHEE_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LINDBERGH FIVE",
+			"pdf_name": "00360LINDBERGH.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LINDBERGH FIVE, CONT.1",
+			"pdf_name": "00360LINDBERGH_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NATCA THREE (RNAV)",
+			"pdf_name": "00360NATCA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "NATCA THREE (RNAV), CONT.1",
+			"pdf_name": "00360NATCA_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OZARK FIVE",
+			"pdf_name": "00360OZARK.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OZARK FIVE, CONT.1",
+			"pdf_name": "00360OZARK_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PLESS FOUR",
+			"pdf_name": "00360PLESS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ROTRY THREE (RNAV)",
+			"pdf_name": "00360ROTRY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ROTRY THREE (RNAV), CONT.1",
+			"pdf_name": "00360ROTRY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TEDDD THREE (RNAV)",
+			"pdf_name": "00360TEDDD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TEDDD THREE (RNAV), CONT.1",
+			"pdf_name": "00360TEDDD_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TURBO EIGHT",
+			"pdf_name": "00360TURBO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TURBO EIGHT, CONT.1",
+			"pdf_name": "00360TURBO_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WHRLI FOUR (RNAV)",
+			"pdf_name": "00360WHRLI.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WHRLI FOUR (RNAV), CONT.1",
+			"pdf_name": "00360WHRLI_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MO",
+		"state_fullname": "Missouri",
+		"city_name": "SAINT LOUIS",
+		"airport_name": "LAMBERT-ST LOUIS INTL",
+		"military": "N",
+		"apt_ident": "STL",
+		"icao_ident": "KSTL",
+		"alnum": "360"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SW1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "05863R4.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-B",
+			"pdf_name": "05863VDB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "TAOS",
+		"airport_name": "TAOS REGIONAL",
+		"military": "N",
+		"apt_ident": "SKX",
+		"icao_ident": "KSKX",
+		"alnum": "5863"
+	}
+}

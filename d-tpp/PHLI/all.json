@@ -1,0 +1,110 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "PACTO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "PACTO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "PACALT.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 35",
+			"pdf_name": "00776IL35.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 21",
+			"pdf_name": "00776RRZ21.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 35",
+			"pdf_name": "00776RRZ35.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "00776R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 21",
+			"pdf_name": "00776RY21.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 35",
+			"pdf_name": "00776RY35.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR TACAN RWY 21",
+			"pdf_name": "00776VDT21.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "00776VA.PDF"
+		},
+		{
+			"chartseq": "55850",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR TACAN RWY 35",
+			"pdf_name": "00776VT35.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00776AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DIANE ONE",
+			"pdf_name": "00776DIANE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LIHUE FIVE",
+			"pdf_name": "00776LIHUE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "RICHE TWO",
+			"pdf_name": "00776RICHE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "HI",
+		"state_fullname": "Hawaii",
+		"city_name": "LIHUE",
+		"airport_name": "LIHUE",
+		"military": "N",
+		"apt_ident": "LIH",
+		"icao_ident": "PHLI",
+		"alnum": "776"
+	}
+}

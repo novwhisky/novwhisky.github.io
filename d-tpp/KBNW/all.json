@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 15",
+			"pdf_name": "05512R15.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 33",
+			"pdf_name": "05512R33.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IA",
+		"state_fullname": "Iowa",
+		"city_name": "BOONE",
+		"airport_name": "BOONE MUNI",
+		"military": "N",
+		"apt_ident": "BNW",
+		"icao_ident": "KBNW",
+		"alnum": "5512"
+	}
+}

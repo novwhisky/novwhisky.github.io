@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC2TO.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05946VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "MINEOLA",
+		"airport_name": "MINEOLA WISENER FIELD",
+		"military": "N",
+		"apt_ident": "3F9",
+		"icao_ident": "",
+		"alnum": "5946"
+	}
+}

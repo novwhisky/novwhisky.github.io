@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "00591R16.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB-B",
+			"pdf_name": "00591NB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OR",
+		"state_fullname": "Oregon",
+		"city_name": "LA GRANDE",
+		"airport_name": "LA GRANDE/UNION COUNTY",
+		"military": "N",
+		"apt_ident": "LGD",
+		"icao_ident": "KLGD",
+		"alnum": "591"
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE2ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JUNNR ONE (RNAV)",
+			"pdf_name": "05124JUNNR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MCHLN ONE (RNAV)",
+			"pdf_name": "05124MCHLN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RCTOR ONE (RNAV)",
+			"pdf_name": "05124RCTOR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "UNMAN THREE (RNAV)",
+			"pdf_name": "00179UNMAN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WORXS ONE (RNAV)",
+			"pdf_name": "05124WORXS.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 05",
+			"pdf_name": "00401IL5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "00401R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "00401R23.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BIMMR ONE (RNAV)",
+			"pdf_name": "00401BIMMR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BWALL ONE (RNAV)",
+			"pdf_name": "00401BWALL.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SC",
+		"state_fullname": "South Carolina",
+		"city_name": "SPARTANBURG",
+		"airport_name": "SPARTANBURG DOWNTOWN MEMORIAL",
+		"military": "N",
+		"apt_ident": "SPA",
+		"icao_ident": "KSPA",
+		"alnum": "401"
+	}
+}

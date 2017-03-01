@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC3TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NC3ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "06869R16.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 34",
+			"pdf_name": "06869R34.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IA",
+		"state_fullname": "Iowa",
+		"city_name": "CENTERVILLE",
+		"airport_name": "CENTERVILLE MUNI",
+		"military": "N",
+		"apt_ident": "TVK",
+		"icao_ident": "KTVK",
+		"alnum": "6869"
+	}
+}

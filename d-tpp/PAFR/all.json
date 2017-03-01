@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "AKTO.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "FORT RICHARDSON (ANCHORAGE)",
+		"airport_name": "BRYANT AAF",
+		"military": "M",
+		"apt_ident": "FRN",
+		"icao_ident": "PAFR",
+		"alnum": "10626"
+	}
+}

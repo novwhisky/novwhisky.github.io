@@ -1,0 +1,80 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "PACTO.PDF"
+		},
+		{
+			"chartseq": "10110",
+			"chart_code": "MIN",
+			"chart_name": "DIVERSE VECTOR AREA",
+			"pdf_name": "PACTO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "PACALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "PACHOTSPOT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS)-B",
+			"pdf_name": "00759RB.PDF"
+		},
+		{
+			"chartseq": "55850",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR TACAN-A",
+			"pdf_name": "00759VTA.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00759AD.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "KAUNAKAKAI ONE (OBSTACLE)",
+			"pdf_name": "00759KAUNAKAKAI.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "KAUNAKAKAI ONE (OBSTACLE), CONT.1",
+			"pdf_name": "00759KAUNAKAKAI_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BLUSH TWO",
+			"pdf_name": "00759BLUSH.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HAPAI THREE",
+			"pdf_name": "00759HAPAI.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "HI",
+		"state_fullname": "Hawaii",
+		"city_name": "KAUNAKAKAI",
+		"airport_name": "MOLOKAI",
+		"military": "N",
+		"apt_ident": "MKK",
+		"icao_ident": "PHMK",
+		"alnum": "759"
+	}
+}

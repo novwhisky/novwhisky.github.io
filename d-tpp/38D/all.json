@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR GPS-A",
+			"pdf_name": "06906VGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "SALEM",
+		"airport_name": "SALEM AIRPARK INC",
+		"military": "N",
+		"apt_ident": "38D",
+		"icao_ident": "",
+		"alnum": "6906"
+	}
+}

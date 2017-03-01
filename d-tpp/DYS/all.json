@@ -1,0 +1,86 @@
+{
+	"records": [
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "SC2RAD.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC X RWY 16",
+			"pdf_name": "00002HILX16.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC X RWY 34",
+			"pdf_name": "00002HILX34.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC W RWY 16",
+			"pdf_name": "00002ILW16.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC W RWY 34",
+			"pdf_name": "00002ILW34.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 16",
+			"pdf_name": "00002VD16.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 34",
+			"pdf_name": "00002VD34.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN X RWY 16",
+			"pdf_name": "00002HTX16.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN X RWY 34",
+			"pdf_name": "00002HTX34.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN W RWY 16",
+			"pdf_name": "00002TW16.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN W RWY 34",
+			"pdf_name": "00002TW34.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00002AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "ABILENE",
+		"airport_name": "DYESS AFB",
+		"military": "M",
+		"apt_ident": "DYS",
+		"icao_ident": "KDYS",
+		"alnum": "2"
+	}
+}

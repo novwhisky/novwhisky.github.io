@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "10300R26.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WOBKA TWO (RNAV)",
+			"pdf_name": "10300WOBKA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "MIFFLINTOWN",
+		"airport_name": "MIFFLINTOWN",
+		"military": "N",
+		"apt_ident": "P34",
+		"icao_ident": "",
+		"alnum": "10300"
+	}
+}

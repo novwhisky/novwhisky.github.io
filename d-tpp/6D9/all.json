@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "05929R8.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05929VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MI",
+		"state_fullname": "Michigan",
+		"city_name": "EAST TAWAS",
+		"airport_name": "IOSCO COUNTY",
+		"military": "N",
+		"apt_ident": "6D9",
+		"icao_ident": "",
+		"alnum": "5929"
+	}
+}

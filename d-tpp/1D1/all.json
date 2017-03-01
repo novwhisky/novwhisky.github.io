@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "09435R31.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "SD",
+		"state_fullname": "South Dakota",
+		"city_name": "MILBANK",
+		"airport_name": "MILBANK MUNI",
+		"military": "N",
+		"apt_ident": "1D1",
+		"icao_ident": "",
+		"alnum": "9435"
+	}
+}

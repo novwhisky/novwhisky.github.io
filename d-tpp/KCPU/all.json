@@ -1,0 +1,26 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW2TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 31",
+			"pdf_name": "06708G31.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "CA",
+		"state_fullname": "California",
+		"city_name": "SAN ANDREAS",
+		"airport_name": "CALAVERAS COUNTY-MAURY RASMUSSEN FIELD",
+		"military": "N",
+		"apt_ident": "CPU",
+		"icao_ident": "KCPU",
+		"alnum": "6708"
+	}
+}

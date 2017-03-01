@@ -1,0 +1,92 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC Z RWY 08",
+			"pdf_name": "00169HILZ8.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC Z RWY 26",
+			"pdf_name": "00169HILZ26.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC Y RWY 08",
+			"pdf_name": "00169ILY8.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC Y RWY 26",
+			"pdf_name": "00169ILY26.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 08",
+			"pdf_name": "00169R8.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "00169R26.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 08",
+			"pdf_name": "00169HTZ8.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 26",
+			"pdf_name": "00169HTZ26.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN Y RWY 08",
+			"pdf_name": "00169TY8.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN Y RWY 26",
+			"pdf_name": "00169TY26.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00169AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SEYMOUR THREE",
+			"pdf_name": "00169SEYMOUR.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NC",
+		"state_fullname": "North Carolina",
+		"city_name": "GOLDSBORO",
+		"airport_name": "SEYMOUR JOHNSON AFB",
+		"military": "M",
+		"apt_ident": "GSB",
+		"icao_ident": "KGSB",
+		"alnum": "169"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 14",
+			"pdf_name": "09256R14.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 32",
+			"pdf_name": "09256R32.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME RWY 14",
+			"pdf_name": "09256LD14.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 14",
+			"pdf_name": "09256VD14.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KY",
+		"state_fullname": "Kentucky",
+		"city_name": "HAZARD",
+		"airport_name": "WENDELL H. FORD",
+		"military": "N",
+		"apt_ident": "CPF",
+		"icao_ident": "KCPF",
+		"alnum": "9256"
+	}
+}

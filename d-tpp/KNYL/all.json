@@ -1,0 +1,128 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "SW4RAD.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 21R",
+			"pdf_name": "00511ILD21R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03L",
+			"pdf_name": "00511R3L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "00511R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 21R",
+			"pdf_name": "00511R21R.PDF"
+		},
+		{
+			"chartseq": "55500",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR TACAN RWY 17",
+			"pdf_name": "00511VDT17.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 17",
+			"pdf_name": "00511V17.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 03L",
+			"pdf_name": "00511HT3L.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN RWY 21R",
+			"pdf_name": "00511HT21R.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 03L",
+			"pdf_name": "00511T3L.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 21R",
+			"pdf_name": "00511T21R.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00511AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ARGUS THREE",
+			"pdf_name": "00511ARGUS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CARGO EIGHT",
+			"pdf_name": "00511CARGO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CARGO EIGHT, CONT.1",
+			"pdf_name": "00511CARGO_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HEEDS ONE",
+			"pdf_name": "00511HEEDS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MOHAK THREE",
+			"pdf_name": "00511MOHAK.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PICACHO THREE",
+			"pdf_name": "00511PICACHO.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AZ",
+		"state_fullname": "Arizona",
+		"city_name": "YUMA",
+		"airport_name": "YUMA MCAS/YUMA INTL",
+		"military": "M",
+		"apt_ident": "NYL",
+		"icao_ident": "KNYL",
+		"alnum": "511"
+	}
+}

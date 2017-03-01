@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FRWAY FIVE (RNAV)",
+			"pdf_name": "00449FRWAY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TUXXI TWO",
+			"pdf_name": "00449TUXXI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WLACE THREE (RNAV)",
+			"pdf_name": "00449WLACE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "FL",
+		"state_fullname": "Florida",
+		"city_name": "JUPITER",
+		"airport_name": "WILLIAM P. GWINN",
+		"military": "N",
+		"apt_ident": "06FA",
+		"icao_ident": "",
+		"alnum": "1921"
+	}
+}

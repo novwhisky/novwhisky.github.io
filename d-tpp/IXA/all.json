@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE2ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "10369R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20",
+			"pdf_name": "10369R20.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 02",
+			"pdf_name": "10369VD2.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NC",
+		"state_fullname": "North Carolina",
+		"city_name": "ROANOKE RAPIDS",
+		"airport_name": "HALIFAX-NORTHAMPTON RGNL",
+		"military": "N",
+		"apt_ident": "IXA",
+		"icao_ident": "KIXA",
+		"alnum": "10369"
+	}
+}

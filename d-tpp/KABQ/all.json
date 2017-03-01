@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CURLY TWO",
+			"pdf_name": "00012CURLY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FRIHO FOUR",
+			"pdf_name": "00012FRIHO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LAVAN THREE",
+			"pdf_name": "00012LAVAN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MIERA TWO",
+			"pdf_name": "00012MIERA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "ALBUQUERQUE",
+		"airport_name": "KIRTLAND AFB",
+		"military": "N",
+		"apt_ident": "KABQ",
+		"icao_ident": "KABQ",
+		"alnum": "10264"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NC2TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17R",
+			"pdf_name": "05982R17R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35L",
+			"pdf_name": "05982R35L.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "05982VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "LYONS",
+		"airport_name": "LYONS-RICE COUNTY MUNI",
+		"military": "N",
+		"apt_ident": "LYO",
+		"icao_ident": "KLYO",
+		"alnum": "5982"
+	}
+}

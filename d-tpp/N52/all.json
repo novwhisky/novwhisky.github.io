@@ -1,0 +1,80 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CHPTR ONE",
+			"pdf_name": "00078CHPTR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CHPTR ONE, CONT.1",
+			"pdf_name": "00078CHPTR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LIINN TWO",
+			"pdf_name": "00078LIINN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LIINN TWO, CONT.1",
+			"pdf_name": "00078LIINN_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MAJIC ONE",
+			"pdf_name": "00078MAJIC.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "RASLN TWO",
+			"pdf_name": "00078RASLN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "UNARM FOUR",
+			"pdf_name": "00078UNARM.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "UNARM FOUR, CONT.1",
+			"pdf_name": "00078UNARM_C.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 04",
+			"pdf_name": "06246R4.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "06246R22.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NC",
+		"state_fullname": "North Carolina",
+		"city_name": "WAXHAW",
+		"airport_name": "JAARS-TOWNSEND",
+		"military": "N",
+		"apt_ident": "N52",
+		"icao_ident": "",
+		"alnum": "6246"
+	}
+}

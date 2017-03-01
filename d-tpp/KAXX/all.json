@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "09482R17.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "ANEKE TWO (OBSTACLE) (RNAV)",
+			"pdf_name": "09482ANEKE.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "ANGEL FIRE",
+		"airport_name": "ANGEL FIRE",
+		"military": "N",
+		"apt_ident": "AXX",
+		"icao_ident": "KAXX",
+		"alnum": "9482"
+	}
+}

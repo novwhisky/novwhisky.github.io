@@ -1,0 +1,32 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 21",
+			"pdf_name": "09422G21.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "CAMBA THREE (RNAV)",
+			"pdf_name": "09422CAMBA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AZ",
+		"state_fullname": "Arizona",
+		"city_name": "TAYLOR",
+		"airport_name": "TAYLOR MUNI",
+		"military": "N",
+		"apt_ident": "TYL",
+		"icao_ident": "KTYL",
+		"alnum": "9422"
+	}
+}

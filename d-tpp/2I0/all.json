@@ -1,0 +1,38 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE1TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "05188R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "05188R23.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR RWY 23",
+			"pdf_name": "05188V23.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KY",
+		"state_fullname": "Kentucky",
+		"city_name": "MADISONVILLE",
+		"airport_name": "MADISONVILLE RGNL",
+		"military": "N",
+		"apt_ident": "2I0",
+		"icao_ident": "",
+		"alnum": "5188"
+	}
+}
