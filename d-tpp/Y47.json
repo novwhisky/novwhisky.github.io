@@ -1,0 +1,53 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC1TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CRUXX FIVE",
+			"pdf_name": "00467CRUXX.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LLEEO TWO",
+			"pdf_name": "00467LLEEO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SPRTN THREE",
+			"pdf_name": "00118SPRTN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SWWAN TWO",
+			"pdf_name": "05052SWWAN.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR GPS-A",
+			"pdf_name": "05487VGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MI",
+		"state_fullname": "Michigan",
+		"city_name": "NEW HUDSON",
+		"airport_name": "OAKLAND SOUTHWEST",
+		"military": "N",
+		"apt_ident": "Y47",
+		"icao_ident": "",
+		"alnum": "5487",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

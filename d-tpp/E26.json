@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "09408AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NM",
+		"state_fullname": "New Mexico",
+		"city_name": "JAL",
+		"airport_name": "LEA COUNTY",
+		"military": "N",
+		"apt_ident": "E26",
+		"icao_ident": "",
+		"alnum": "9408",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

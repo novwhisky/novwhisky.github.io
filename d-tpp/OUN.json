@@ -1,0 +1,185 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SC1ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "SC1HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BASTS ONE (RNAV)",
+			"pdf_name": "00739BASTS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CCASH ONE (RNAV)",
+			"pdf_name": "00739CCASH.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DAWKS ONE (RNAV)",
+			"pdf_name": "00739DAWKS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FAKEY ONE (RNAV)",
+			"pdf_name": "00739FAKEY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GULLI ONE",
+			"pdf_name": "00301GULLI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "GULLI ONE, CONT.1",
+			"pdf_name": "00301GULLI_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JUDDG TWO (RNAV)",
+			"pdf_name": "00739JUDDG.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WAYMN ONE (RNAV)",
+			"pdf_name": "00739WAYMN.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 18",
+			"pdf_name": "05672IL18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 03",
+			"pdf_name": "05672R3.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "05672R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "05672R36.PDF"
+		},
+		{
+			"chartseq": "54000",
+			"chart_code": "IAP",
+			"chart_name": "LOC RWY 03",
+			"pdf_name": "05672L3.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05672AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "FUNNL TWO (RNAV)",
+			"pdf_name": "05672FUNNL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KRMSN TWO (RNAV)",
+			"pdf_name": "05672KRMSN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MUDDE TWO (RNAV)",
+			"pdf_name": "05672MUDDE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OLGUY TWO (RNAV)",
+			"pdf_name": "05672OLGUY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "RDHWK TWO (RNAV)",
+			"pdf_name": "05672RDHWK.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SSYKO TWO (RNAV)",
+			"pdf_name": "05672SSYKO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "STPHN TWO (RNAV)",
+			"pdf_name": "05672STPHN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TEBRD TWO (RNAV)",
+			"pdf_name": "05672TEBRD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "THRPE TWO (RNAV)",
+			"pdf_name": "05672THRPE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TRUPR TWO (RNAV)",
+			"pdf_name": "05672TRUPR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WENDY TWO (RNAV)",
+			"pdf_name": "05672WENDY.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OK",
+		"state_fullname": "Oklahoma",
+		"city_name": "NORMAN",
+		"airport_name": "UNIVERSITY OF OKLAHOMA WESTHEIMER",
+		"military": "N",
+		"apt_ident": "OUN",
+		"icao_ident": "KOUN",
+		"alnum": "5672",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

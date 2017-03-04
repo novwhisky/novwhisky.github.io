@@ -1,0 +1,65 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE4TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AWSON THREE",
+			"pdf_name": "00469AWSON.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "AWSON THREE, CONT.1",
+			"pdf_name": "00469AWSON_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BUKHD ONE (RNAV)",
+			"pdf_name": "00469BUKHD.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEHAN ONE (RNAV)",
+			"pdf_name": "00469DEHAN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DEHAN ONE (RNAV), CONT.1",
+			"pdf_name": "00469DEHAN_C.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 06",
+			"pdf_name": "06998R6.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 24",
+			"pdf_name": "06998R24.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "GA",
+		"state_fullname": "Georgia",
+		"city_name": "HAMPTON",
+		"airport_name": "HENRY COUNTY AIRPORT",
+		"military": "N",
+		"apt_ident": "HMP",
+		"icao_ident": "KHMP",
+		"alnum": "6998",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

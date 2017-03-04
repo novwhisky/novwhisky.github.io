@@ -1,0 +1,35 @@
+{
+	"records": [
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 05",
+			"pdf_name": "06196R5.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 23",
+			"pdf_name": "06196R23.PDF"
+		},
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB RWY 05",
+			"pdf_name": "06196N5.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "IN",
+		"state_fullname": "Indiana",
+		"city_name": "ANGOLA",
+		"airport_name": "TRI-STATE STEUBEN COUNTY",
+		"military": "N",
+		"apt_ident": "ANQ",
+		"icao_ident": "KANQ",
+		"alnum": "6196",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

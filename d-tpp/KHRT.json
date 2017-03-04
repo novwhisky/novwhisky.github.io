@@ -1,0 +1,71 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE3TO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 36",
+			"pdf_name": "00734IL36.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 18",
+			"pdf_name": "00734R18.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "00734R36.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 18",
+			"pdf_name": "00734T18.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN RWY 36",
+			"pdf_name": "00734T36.PDF"
+		},
+		{
+			"chartseq": "59325",
+			"chart_code": "IAP",
+			"chart_name": "COPTER TACAN RWY 18",
+			"pdf_name": "00734COPTERT18.PDF"
+		},
+		{
+			"chartseq": "59325",
+			"chart_code": "IAP",
+			"chart_name": "COPTER TACAN RWY 36",
+			"pdf_name": "00734COPTERT36.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00734AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "FL",
+		"state_fullname": "Florida",
+		"city_name": "MARY ESTHER",
+		"airport_name": "HURLBURT FLD",
+		"military": "M",
+		"apt_ident": "HRT",
+		"icao_ident": "KHRT",
+		"alnum": "734",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

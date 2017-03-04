@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR GPS-B",
+			"pdf_name": "06630VGB.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "KS",
+		"state_fullname": "Kansas",
+		"city_name": "HARPER",
+		"airport_name": "HARPER MUNI",
+		"military": "N",
+		"apt_ident": "8K2",
+		"icao_ident": "",
+		"alnum": "6630",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

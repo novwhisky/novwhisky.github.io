@@ -1,0 +1,53 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "AKTO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "AKALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "09230R2.PDF"
+		},
+		{
+			"chartseq": "57000",
+			"chart_code": "IAP",
+			"chart_name": "NDB/DME RWY 02",
+			"pdf_name": "09230ND2.PDF"
+		},
+		{
+			"chartseq": "90000",
+			"chart_code": "ODP",
+			"chart_name": "KLAWOCK ONE (OBSTACLE)",
+			"pdf_name": "09230KLAWOCK.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "TURTY THREE (RNAV)",
+			"pdf_name": "09230TURTY.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "AK",
+		"state_fullname": "Alaska",
+		"city_name": "KLAWOCK",
+		"airport_name": "KLAWOCK",
+		"military": "N",
+		"apt_ident": "AKW",
+		"icao_ident": "PAKW",
+		"alnum": "9230",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

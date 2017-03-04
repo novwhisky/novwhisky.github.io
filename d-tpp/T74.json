@@ -1,0 +1,89 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC3TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MSTLO ONE (RNAV)",
+			"pdf_name": "05891MSTLO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SZAGI ONE (RNAV)",
+			"pdf_name": "05891SZAGI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WAILN ONE (RNAV)",
+			"pdf_name": "05891WAILN.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "06938R17.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME RWY 17",
+			"pdf_name": "06938VD17.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BNDIA ONE (RNAV)",
+			"pdf_name": "06938BNDIA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DILLO ONE (RNAV)",
+			"pdf_name": "06938DILLO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ELOEL ONE (RNAV)",
+			"pdf_name": "06938ELOEL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ILEXY ONE (RNAV)",
+			"pdf_name": "06938ILEXY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MUCKY ONE (RNAV)",
+			"pdf_name": "06938MUCKY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SAYBR ONE (RNAV)",
+			"pdf_name": "06938SAYBR.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "TAYLOR",
+		"airport_name": "TAYLOR MUNI",
+		"military": "N",
+		"apt_ident": "T74",
+		"icao_ident": "",
+		"alnum": "6938",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "EC2TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CHARDON THREE",
+			"pdf_name": "00084CHARDON.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FAILS TWO",
+			"pdf_name": "05370FAILS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FAILS TWO, CONT.1",
+			"pdf_name": "05370FAILS_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "KEATN SIX",
+			"pdf_name": "00084KEATN.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ZABER FOUR",
+			"pdf_name": "00084ZABER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "ZABER FOUR, CONT.1",
+			"pdf_name": "00084ZABER_C.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR OR GPS-A",
+			"pdf_name": "05432VGA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ALPHE FOUR (RNAV)",
+			"pdf_name": "05432ALPHE.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "AMRST FIVE",
+			"pdf_name": "05432AMRST.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OBRLN FOUR",
+			"pdf_name": "05432OBRLN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "OBRLN FOUR, CONT.1",
+			"pdf_name": "05432OBRLN_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OH",
+		"state_fullname": "Ohio",
+		"city_name": "PAINESVILLE",
+		"airport_name": "CONCORD AIRPARK",
+		"military": "N",
+		"apt_ident": "2G1",
+		"icao_ident": "",
+		"alnum": "5432",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

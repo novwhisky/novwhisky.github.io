@@ -1,0 +1,29 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE2TO.PDF"
+		},
+		{
+			"chartseq": "59200",
+			"chart_code": "IAP",
+			"chart_name": "COPTER RNAV (GPS) 210",
+			"pdf_name": "10972COPTERR210.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NY",
+		"state_fullname": "New York",
+		"city_name": "NEW YORK",
+		"airport_name": "WEST 30TH ST",
+		"military": "N",
+		"apt_ident": "JRA",
+		"icao_ident": "KJRA",
+		"alnum": "10972",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

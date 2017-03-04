@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR GPS RWY 07",
+			"pdf_name": "05905VDG7.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "LA",
+		"state_fullname": "Louisiana",
+		"city_name": "WELSH",
+		"airport_name": "WELSH",
+		"military": "N",
+		"apt_ident": "6R1",
+		"icao_ident": "",
+		"alnum": "5905",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

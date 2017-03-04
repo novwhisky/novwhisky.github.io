@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "57500",
+			"chart_code": "IAP",
+			"chart_name": "NDB OR GPS RWY 11",
+			"pdf_name": "06315NG11.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NC",
+		"state_fullname": "North Carolina",
+		"city_name": "CAMP MACKALL",
+		"airport_name": "MACKALL AAF",
+		"military": "M",
+		"apt_ident": "HFF",
+		"icao_ident": "KHFF",
+		"alnum": "6315",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

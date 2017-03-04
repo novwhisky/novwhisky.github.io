@@ -1,0 +1,245 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE4TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE4ALT.PDF"
+		},
+		{
+			"chartseq": "10700",
+			"chart_code": "HOT",
+			"chart_name": "HOT SPOT",
+			"pdf_name": "NE4HOTSPOT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BOJID TWO (RNAV)",
+			"pdf_name": "00320BOJID.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BUNTS TWO",
+			"pdf_name": "00320BUNTS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CEDAR LAKE EIGHT",
+			"pdf_name": "00320CEDARLAKE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "DUPONT FIVE",
+			"pdf_name": "00320DUPONT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "JIIMS TWO (RNAV)",
+			"pdf_name": "00320JIIMS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "PAATS TWO (RNAV)",
+			"pdf_name": "00320PAATS.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SLATT FOUR",
+			"pdf_name": "00320SLATT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SPUDS THREE (RNAV)",
+			"pdf_name": "00320SPUDS.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 09L",
+			"pdf_name": "00320IL9L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 26",
+			"pdf_name": "00320IL26.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 27L",
+			"pdf_name": "00320IL27L.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 27R",
+			"pdf_name": "00320ILD27R.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS Z OR LOC RWY 17",
+			"pdf_name": "00320IZL17.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS Z OR LOC Z RWY 09R",
+			"pdf_name": "00320IZLZ9R.PDF"
+		},
+		{
+			"chartseq": "51125",
+			"chart_code": "IAP",
+			"chart_name": "ILS Z RWY 09R (SA CAT I)",
+			"pdf_name": "00320IZ9RSAC1.PDF"
+		},
+		{
+			"chartseq": "51200",
+			"chart_code": "IAP",
+			"chart_name": "ILS RWY 27R (SA CAT I - II)",
+			"pdf_name": "00320I27RSAC1_2.PDF"
+		},
+		{
+			"chartseq": "51600",
+			"chart_code": "IAP",
+			"chart_name": "ILS Z RWY 09R (CAT II - III)",
+			"pdf_name": "00320IZ9RC2_3.PDF"
+		},
+		{
+			"chartseq": "52500",
+			"chart_code": "IAP",
+			"chart_name": "ILS V RWY 09R (CONVERGING)",
+			"pdf_name": "00320IV9RCON.PDF"
+		},
+		{
+			"chartseq": "52500",
+			"chart_code": "IAP",
+			"chart_name": "ILS V RWY 17 (CONVERGING)",
+			"pdf_name": "00320IV17CON.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 09L",
+			"pdf_name": "00320RRZ9L.PDF"
+		},
+		{
+			"chartseq": "53500",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (RNP) Z RWY 09R",
+			"pdf_name": "00320RRZ9R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "00320R17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 26",
+			"pdf_name": "00320R26.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 27L",
+			"pdf_name": "00320R27L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 27R",
+			"pdf_name": "00320R27R.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 35",
+			"pdf_name": "00320R35.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 09L",
+			"pdf_name": "00320RY9L.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 09R",
+			"pdf_name": "00320RY9R.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "00320VDA.PDF"
+		},
+		{
+			"chartseq": "59500",
+			"chart_code": "IAP",
+			"chart_name": "FREEDOM VISUAL RWY 09L",
+			"pdf_name": "00320FREEDOM_VIS9L.PDF"
+		},
+		{
+			"chartseq": "59500",
+			"chart_code": "IAP",
+			"chart_name": "LIBERTY VISUAL RWY 27L",
+			"pdf_name": "00320LIBERTY_VIS27L.PDF"
+		},
+		{
+			"chartseq": "59500",
+			"chart_code": "IAP",
+			"chart_name": "RIVER VISUAL RWY 09L/R",
+			"pdf_name": "00320RIVER_VIS9LR.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00320AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PHILADELPHIA ONE",
+			"pdf_name": "00320PHILADELPHIA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PHILADELPHIA ONE, CONT.1",
+			"pdf_name": "00320PHILADELPHIA_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "PHILADELPHIA",
+		"airport_name": "PHILADELPHIA INTL",
+		"military": "N",
+		"apt_ident": "PHL",
+		"icao_ident": "KPHL",
+		"alnum": "320",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

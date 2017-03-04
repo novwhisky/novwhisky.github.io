@@ -1,0 +1,35 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE3TO.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 09",
+			"pdf_name": "09979R9.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "VEDAS THREE (RNAV)",
+			"pdf_name": "09979VEDAS.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PR",
+		"state_fullname": "Puerto Rico",
+		"city_name": "ISLA DE VIEQUES",
+		"airport_name": "ANTONIO RIVERA RODRIGUEZ",
+		"military": "N",
+		"apt_ident": "VQS",
+		"icao_ident": "TJVQ",
+		"alnum": "9979",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

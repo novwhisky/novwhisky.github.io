@@ -1,0 +1,29 @@
+{
+	"records": [
+		{
+			"chartseq": "53550",
+			"chart_code": "IAP",
+			"chart_name": "GPS RWY 06",
+			"pdf_name": "06823G6.PDF"
+		},
+		{
+			"chartseq": "55800",
+			"chart_code": "IAP",
+			"chart_name": "VOR-A",
+			"pdf_name": "06823VA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NJ",
+		"state_fullname": "New Jersey",
+		"city_name": "OCEAN CITY",
+		"airport_name": "OCEAN CITY MUNI",
+		"military": "N",
+		"apt_ident": "26N",
+		"icao_ident": "",
+		"alnum": "6823",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

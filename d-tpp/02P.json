@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "59200",
+			"chart_code": "IAP",
+			"chart_name": "COPTER RNAV (GPS) 086",
+			"pdf_name": "09850COPTERR086.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "PA",
+		"state_fullname": "Pennsylvania",
+		"city_name": "HONEY GROVE",
+		"airport_name": "STOTTLE MEMORIAL",
+		"military": "N",
+		"apt_ident": "02P",
+		"icao_ident": "",
+		"alnum": "9850",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

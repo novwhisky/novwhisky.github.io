@@ -1,0 +1,41 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SW4TO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC/DME RWY 17",
+			"pdf_name": "06944ILD17.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 17",
+			"pdf_name": "06944R17.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "STACO TWO (RNAV)",
+			"pdf_name": "06944STACO.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "UT",
+		"state_fullname": "Utah",
+		"city_name": "TOOELE",
+		"airport_name": "BOLINDER FIELD-TOOELE VALLEY",
+		"military": "N",
+		"apt_ident": "TVY",
+		"icao_ident": "KTVY",
+		"alnum": "6944",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

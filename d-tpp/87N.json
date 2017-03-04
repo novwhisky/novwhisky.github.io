@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "59200",
+			"chart_code": "IAP",
+			"chart_name": "COPTER RNAV (GPS) 190",
+			"pdf_name": "09013COPTERR190.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NY",
+		"state_fullname": "New York",
+		"city_name": "SOUTHAMPTON",
+		"airport_name": "SOUTHAMPTON",
+		"military": "N",
+		"apt_ident": "87N",
+		"icao_ident": "",
+		"alnum": "9013",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

@@ -1,0 +1,71 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "10600",
+			"chart_code": "LAH",
+			"chart_name": "LAHSO",
+			"pdf_name": "NW1LAHSO.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC Z RWY 31",
+			"pdf_name": "00361ILZ31.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 31",
+			"pdf_name": "00361R31.PDF"
+		},
+		{
+			"chartseq": "53750",
+			"chart_code": "IAP",
+			"chart_name": "LOC Y RWY 31",
+			"pdf_name": "00361LY31.PDF"
+		},
+		{
+			"chartseq": "54250",
+			"chart_code": "IAP",
+			"chart_name": "LOC/DME BC RWY 13",
+			"pdf_name": "00361LDBC13.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00361AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SALEM THREE",
+			"pdf_name": "00361SALEM.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "OR",
+		"state_fullname": "Oregon",
+		"city_name": "SALEM",
+		"airport_name": "MCNARY FIELD",
+		"military": "N",
+		"apt_ident": "SLE",
+		"icao_ident": "KSLE",
+		"alnum": "361",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

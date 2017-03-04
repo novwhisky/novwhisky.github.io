@@ -1,0 +1,41 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 10",
+			"pdf_name": "05082RY10.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 10",
+			"pdf_name": "05082RZ10.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NH",
+		"state_fullname": "New Hampshire",
+		"city_name": "WHITEFIELD",
+		"airport_name": "MOUNT WASHINGTON RGNL",
+		"military": "N",
+		"apt_ident": "HIE",
+		"icao_ident": "KHIE",
+		"alnum": "5082",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

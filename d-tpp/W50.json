@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TRSTN THREE (RNAV)",
+			"pdf_name": "05326TRSTN.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MD",
+		"state_fullname": "Maryland",
+		"city_name": "LAYTONSVILLE",
+		"airport_name": "DAVIS",
+		"military": "N",
+		"apt_ident": "W50",
+		"icao_ident": "",
+		"alnum": "11020",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

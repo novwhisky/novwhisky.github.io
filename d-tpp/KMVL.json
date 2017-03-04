@@ -1,0 +1,41 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NE1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NE1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Y RWY 19",
+			"pdf_name": "05405RY19.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) Z RWY 19",
+			"pdf_name": "05405RZ19.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "VT",
+		"state_fullname": "Vermont",
+		"city_name": "MORRISVILLE",
+		"airport_name": "MORRISVILLE-STOWE STATE",
+		"military": "N",
+		"apt_ident": "MVL",
+		"icao_ident": "KMVL",
+		"alnum": "5405",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

@@ -1,0 +1,203 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SE2TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "SE2ALT.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CHPTR ONE",
+			"pdf_name": "00078CHPTR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CHPTR ONE, CONT.1",
+			"pdf_name": "00078CHPTR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "KABEE ONE (RNAV)",
+			"pdf_name": "09155KABEE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "NASCR ONE",
+			"pdf_name": "09155NASCR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "NASCR ONE, CONT.1",
+			"pdf_name": "09155NASCR_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "UNARM FOUR",
+			"pdf_name": "00078UNARM.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "UNARM FOUR, CONT.1",
+			"pdf_name": "00078UNARM_C.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC RWY 20",
+			"pdf_name": "09155IL20.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 02",
+			"pdf_name": "09155R2.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 20",
+			"pdf_name": "09155R20.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "09155AD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BARMY TWO (RNAV)",
+			"pdf_name": "09155BARMY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BEAVY TWO (RNAV)",
+			"pdf_name": "09155BEAVY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BEAVY TWO (RNAV), CONT.1",
+			"pdf_name": "09155BEAVY_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BOBCAT SEVEN",
+			"pdf_name": "09155BOBCAT.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BOBZY TWO (RNAV)",
+			"pdf_name": "09155BOBZY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ESTRR TWO (RNAV)",
+			"pdf_name": "09155ESTRR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HORNET EIGHT",
+			"pdf_name": "09155HORNET.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HUGO THREE",
+			"pdf_name": "09155HUGO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HUGO THREE, CONT.1",
+			"pdf_name": "09155HUGO_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ICONS TWO (RNAV)",
+			"pdf_name": "09155ICONS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "JOJJO TWO (RNAV)",
+			"pdf_name": "09155JOJJO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KILNS TWO (RNAV)",
+			"pdf_name": "09155KILNS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KRITR THREE (RNAV)",
+			"pdf_name": "09155KRITR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KWEEN TWO (RNAV)",
+			"pdf_name": "09155KWEEN.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "LILLS NINE (RNAV)",
+			"pdf_name": "09155LILLS.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PANTHER THREE",
+			"pdf_name": "09155PANTHER.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "PANTHER THREE, CONT.1",
+			"pdf_name": "09155PANTHER_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "WEAZL TWO (RNAV)",
+			"pdf_name": "09155WEAZL.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NC",
+		"state_fullname": "North Carolina",
+		"city_name": "CONCORD",
+		"airport_name": "CONCORD RGNL",
+		"military": "N",
+		"apt_ident": "JQF",
+		"icao_ident": "KJQF",
+		"alnum": "9155",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

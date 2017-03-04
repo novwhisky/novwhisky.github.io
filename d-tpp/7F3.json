@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 36",
+			"pdf_name": "06779R36.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "CADDO MILLS",
+		"airport_name": "CADDO MILLS MUNI",
+		"military": "N",
+		"apt_ident": "7F3",
+		"icao_ident": "",
+		"alnum": "6779",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

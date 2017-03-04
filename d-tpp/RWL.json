@@ -1,0 +1,35 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "NW1TO.PDF"
+		},
+		{
+			"chartseq": "10200",
+			"chart_code": "MIN",
+			"chart_name": "ALTERNATE MINIMUMS",
+			"pdf_name": "NW1ALT.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 22",
+			"pdf_name": "00687R22.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "WY",
+		"state_fullname": "Wyoming",
+		"city_name": "RAWLINS",
+		"airport_name": "RAWLINS MUNI/HARVEY FIELD",
+		"military": "N",
+		"apt_ident": "RWL",
+		"icao_ident": "KRWL",
+		"alnum": "687",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

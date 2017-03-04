@@ -1,0 +1,137 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC2TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LIKES THREE (RNAV)",
+			"pdf_name": "06918LIKES.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MOTZA EIGHT",
+			"pdf_name": "06918MOTZA.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MOTZA EIGHT, CONT.1",
+			"pdf_name": "06918MOTZA_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "REEKO THREE (RNAV)",
+			"pdf_name": "06918REEKO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SASIE FIVE",
+			"pdf_name": "06918SASIE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SASIE FIVE, CONT.1",
+			"pdf_name": "06918SASIE_C.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "TRUUK TWO (RNAV)",
+			"pdf_name": "06918TRUUK.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WESAT TWO (RNAV)",
+			"pdf_name": "06918WESAT.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06497VDA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GARLAND SIX",
+			"pdf_name": "06497GARLAND.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "GARLAND SIX, CONT.1",
+			"pdf_name": "06497GARLAND_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HUBBARD NINE",
+			"pdf_name": "06497HUBBARD.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "HUBBARD NINE, CONT.1",
+			"pdf_name": "06497HUBBARD_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KINGDOM THREE",
+			"pdf_name": "06497KINGDOM.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KINGDOM THREE, CONT.1",
+			"pdf_name": "06497KINGDOM_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KUSSO THREE (RNAV)",
+			"pdf_name": "06497KUSSO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "KUSSO THREE (RNAV), CONT.1",
+			"pdf_name": "06497KUSSO_C.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SWABR FOUR (RNAV)",
+			"pdf_name": "06497SWABR.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SWABR FOUR (RNAV), CONT.1",
+			"pdf_name": "06497SWABR_C.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "WEATHERFORD",
+		"airport_name": "PARKER COUNTY",
+		"military": "N",
+		"apt_ident": "WEA",
+		"icao_ident": "KWEA",
+		"alnum": "6497",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

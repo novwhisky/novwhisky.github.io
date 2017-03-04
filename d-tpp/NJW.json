@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "10400",
+			"chart_code": "MIN",
+			"chart_name": "RADAR MINIMUMS",
+			"pdf_name": "SC4RAD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MS",
+		"state_fullname": "Mississippi",
+		"city_name": "MOSCOW",
+		"airport_name": "JOE WILLIAMS NOLF",
+		"military": "M",
+		"apt_ident": "NJW",
+		"icao_ident": "KNJW",
+		"alnum": "10414",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

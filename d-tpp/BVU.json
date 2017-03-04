@@ -1,0 +1,53 @@
+{
+	"records": [
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "CLARR TWO",
+			"pdf_name": "00662CLARR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "FUZZY SEVEN",
+			"pdf_name": "00662FUZZY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "KADDY TWO",
+			"pdf_name": "00662KADDY.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LUXOR TWO",
+			"pdf_name": "00662LUXOR.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "LUXOR TWO, CONT.1",
+			"pdf_name": "00662LUXOR_C.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "00612AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "NV",
+		"state_fullname": "Nevada",
+		"city_name": "BOULDER CITY",
+		"airport_name": "BOULDER CITY MUNICIPAL",
+		"military": "N",
+		"apt_ident": "BVU",
+		"icao_ident": "KBVU",
+		"alnum": "612",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

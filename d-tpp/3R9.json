@@ -1,0 +1,107 @@
+{
+	"records": [
+		{
+			"chartseq": "10100",
+			"chart_code": "MIN",
+			"chart_name": "TAKEOFF MINIMUMS",
+			"pdf_name": "SC3TO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BITER SIX",
+			"pdf_name": "00556BITER.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "BLEWE THREE",
+			"pdf_name": "00556BLEWE.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "KALLA THREE",
+			"pdf_name": "00556KALLA.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "MSTLO ONE (RNAV)",
+			"pdf_name": "05891MSTLO.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "SZAGI ONE (RNAV)",
+			"pdf_name": "05891SZAGI.PDF"
+		},
+		{
+			"chartseq": "30000",
+			"chart_code": "STAR",
+			"chart_name": "WAILN ONE (RNAV)",
+			"pdf_name": "05891WAILN.PDF"
+		},
+		{
+			"chartseq": "53525",
+			"chart_code": "IAP",
+			"chart_name": "RNAV (GPS) RWY 16",
+			"pdf_name": "06677R16.PDF"
+		},
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME-A",
+			"pdf_name": "06677VDA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "BNDIA ONE (RNAV)",
+			"pdf_name": "06677BNDIA.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "DILLO ONE (RNAV)",
+			"pdf_name": "06677DILLO.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ELOEL ONE (RNAV)",
+			"pdf_name": "06677ELOEL.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "ILEXY ONE (RNAV)",
+			"pdf_name": "06677ILEXY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "MUCKY ONE (RNAV)",
+			"pdf_name": "06677MUCKY.PDF"
+		},
+		{
+			"chartseq": "90100",
+			"chart_code": "DP",
+			"chart_name": "SAYBR ONE (RNAV)",
+			"pdf_name": "06677SAYBR.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "TX",
+		"state_fullname": "Texas",
+		"city_name": "LAKEWAY",
+		"airport_name": "LAKEWAY AIRPARK",
+		"military": "N",
+		"apt_ident": "3R9",
+		"icao_ident": "",
+		"alnum": "6677",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

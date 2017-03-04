@@ -1,0 +1,23 @@
+{
+	"records": [
+		{
+			"chartseq": "55125",
+			"chart_code": "IAP",
+			"chart_name": "VOR/DME OR GPS-A",
+			"pdf_name": "06374VDGA.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "MN",
+		"state_fullname": "Minnesota",
+		"city_name": "CALEDONIA",
+		"airport_name": "HOUSTON COUNTY",
+		"military": "N",
+		"apt_ident": "CHU",
+		"icao_ident": "KCHU",
+		"alnum": "6374",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}

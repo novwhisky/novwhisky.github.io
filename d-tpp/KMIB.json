@@ -1,0 +1,83 @@
+{
+	"records": [
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC Z RWY 12",
+			"pdf_name": "05013HILZ12.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "HI-ILS OR LOC Z RWY 30",
+			"pdf_name": "05013HILZ30.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC Y RWY 12",
+			"pdf_name": "05013ILY12.PDF"
+		},
+		{
+			"chartseq": "50750",
+			"chart_code": "IAP",
+			"chart_name": "ILS OR LOC Y RWY 30",
+			"pdf_name": "05013ILY30.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 12",
+			"pdf_name": "05013HTZ12.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "HI-TACAN Z RWY 30",
+			"pdf_name": "05013HTZ30.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN Y RWY 12",
+			"pdf_name": "05013TY12.PDF"
+		},
+		{
+			"chartseq": "56000",
+			"chart_code": "IAP",
+			"chart_name": "TACAN Y RWY 30",
+			"pdf_name": "05013TY30.PDF"
+		},
+		{
+			"chartseq": "59325",
+			"chart_code": "IAP",
+			"chart_name": "COPTER TACAN 125",
+			"pdf_name": "05013COPTERT125.PDF"
+		},
+		{
+			"chartseq": "59325",
+			"chart_code": "IAP",
+			"chart_name": "COPTER TACAN 292",
+			"pdf_name": "05013COPTERT292.PDF"
+		},
+		{
+			"chartseq": "70000",
+			"chart_code": "APD",
+			"chart_name": "AIRPORT DIAGRAM",
+			"pdf_name": "05013AD.PDF"
+		}
+	],
+	"meta": {
+		"state_code": "ND",
+		"state_fullname": "North Dakota",
+		"city_name": "MINOT",
+		"airport_name": "MINOT AFB",
+		"military": "M",
+		"apt_ident": "MIB",
+		"icao_ident": "KMIB",
+		"alnum": "5013",
+		"cycle": "1702",
+		"from_edate": "0901Z  02/02/17",
+		"to_edate": "0901Z  03/02/17"
+	}
+}
